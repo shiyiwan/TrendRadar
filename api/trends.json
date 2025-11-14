@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-11-15T04:17:44.430907+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-11-15T05:14:43.202174+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2200994",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3005022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时14分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -37,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 05时14分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
@@ -61,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
+          "url": "https://flash.jin10.com/detail/20251115040927220800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     }

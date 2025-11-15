@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T11:04:03.898275+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-11-15T12:17:25.250919+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时12分 ~ 11时04分]"
+          "appearance_count": 13,
+          "time_info": "[03时12分 ~ 12时17分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -40,8 +41,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 12时17分]"
+        },
+        {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 12时17分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时14分]"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 11时04分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",

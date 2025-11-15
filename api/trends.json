@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T13:14:59.607467+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-11-15T14:21:06.684219+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时12分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[03时12分 ~ 14时21分]"
+        },
+        {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 14时21分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -34,17 +45,6 @@
           "time_info": "[00时18分 ~ 07时14分]"
         },
         {
-          "title": "AI爆梗王?串子罗伯特炸翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 13时14分]"
-        },
-        {
           "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
           "url": "https://wallstreetcn.com/articles/3759419",
           "source": "华尔街见闻",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 14时21分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",

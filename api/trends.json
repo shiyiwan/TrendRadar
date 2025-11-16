@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T07:13:51.898806+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-11-16T09:10:06.045817+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3005195",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时10分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -27,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 09时10分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",

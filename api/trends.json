@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T04:17:41.662023+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-11-18T05:14:24.738657+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
@@ -27,8 +27,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -43,29 +55,18 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
           "url": "https://www.zhihu.com/question/1972861967086666313",
           "source": "知乎",
           "ranks": [
             19,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 05时14分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",

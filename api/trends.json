@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:16:34.008053+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2025-11-17T16:23:01.044862+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -19,6 +19,18 @@
           "time_info": "[00时15分 ~ 11时12分]"
         },
         {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 16时23分]"
+        },
+        {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
           "url": "https://www.cls.cn/detail/2201554",
           "source": "财联社热门",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时15分 ~ 09时06分]"
-        },
-        {
-          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
-          "url": "https://www.cls.cn/detail/2201935",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 15时16分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -59,6 +59,19 @@
           "time_info": "[00时15分 ~ 15时16分]"
         },
         {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 16时23分]"
+        },
+        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -71,8 +84,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 15时16分]"
+          "appearance_count": 27,
+          "time_info": "[00时15分 ~ 16时23分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -104,16 +117,29 @@
           "time_info": "[04时15分 ~ 07时14分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时21分 ~ 15时16分]"
+          "time_info": "[12时21分 ~ 16时23分]"
+        },
+        {
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://www.toutiao.com/trending/7573506510103691273/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 16时23分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -184,28 +210,16 @@
           "time_info": "04时16分"
         },
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时16分]"
-        },
-        {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://www.toutiao.com/trending/7573506510103691273/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时16分]"
+          "time_info": "[14时23分 ~ 16时23分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -234,16 +248,15 @@
           "time_info": "[12时22分 ~ 13时16分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
           "ranks": [
-            9,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 15时16分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "硬刚ChatGPT的千问国内可下载",
@@ -255,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 15时16分]"
+        },
+        {
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T06:15:37.125364+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-19T07:15:19.109873+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -50,11 +50,12 @@
             5,
             3,
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -63,22 +64,24 @@
           "ranks": [
             5,
             3,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时22分 ~ 07时15分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -90,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -102,11 +105,12 @@
             26,
             19,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -142,6 +146,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "特朗普：希望建立人工智能的统一联邦监管标准",
+          "url": "https://flash.jin10.com/detail/20251119064221124800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -162,6 +177,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：希望将AI标准纳入NDAA，或者（国会山）单独起草一份法案。",
+          "url": "https://wallstreetcn.com/livenews/3006771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 07时15分]"
         },
         {
           "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
@@ -189,17 +227,6 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 06时15分]"
-        },
-        {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
           "url": "https://flash.jin10.com/detail/20251119015405489800",
           "source": "金十数据",
@@ -212,6 +239,17 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
+          "title": "美国白宫：美国与沙特阿拉伯签署了一份具有里程碑意义的人工智能谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251119063037342800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
           "url": "https://flash.jin10.com/detail/20251119003556268800",
           "source": "金十数据",
@@ -221,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国白宫：美沙关键成果包括民用核能合作协议、关键矿产合作上的进展，以及一份人工智能谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251119063030258800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
@@ -278,6 +327,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
+          "url": "https://flash.jin10.com/detail/20251119055753200800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "摩根大通副董事长警告称：AI估值可能出现“调整”",
           "url": "https://wallstreetcn.com/livenews/3006619",
           "source": "华尔街见闻-快讯",
@@ -300,6 +360,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "人工智能热大行其道，美股交易员收入创出二十年之最",
+          "url": "https://wallstreetcn.com/livenews/3006755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
           "url": "https://flash.jin10.com/detail/20251119002630860800",
           "source": "金十数据",
@@ -320,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "特朗普呼吁就AI监管制定“统一的联邦标准”",
+          "url": "https://wallstreetcn.com/livenews/3006752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "AI热潮遇冷：美科技股周二集体下跌 英伟达财报成焦点",

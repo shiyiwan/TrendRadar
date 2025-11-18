@@ -1,305 +1,55 @@
 {
-  "generated_at": "2025-11-18T23:17:37.206429+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2025-11-19T00:20:52.054455+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 15,
       "titles": [
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 11时09分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
+          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
+          "url": "https://www.cls.cn/detail/2203967",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6,
-            5,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时22分 ~ 20时31分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时20分 ~ 23时17分]"
-        },
-        {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 17时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
           "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            14,
-            12,
-            9,
-            8,
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时09分 ~ 23时17分]"
-        },
-        {
-          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
-          "url": "https://www.cls.cn/detail/2203967",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 23时17分]"
-        },
-        {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            13,
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 12时19分]"
-        },
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时14分 ~ 23时17分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
           "url": "https://www.cls.cn/detail/2203937",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 23时17分]"
-        },
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 15时16分]"
-        },
-        {
-          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
-          "url": "https://www.zhihu.com/question/1970226468920471782",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 14时23分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
-          "url": "https://flash.jin10.com/detail/20251118064556616800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "【沪指跌0.81%录得3连阴，AI应用方向逆势爆发】市场全天低开低走，三大指数午后均跌超1%。AI应用方向逆势大涨，宣亚国际、光云科技等多股涨停。半导体芯片股冲高回落，龙迅股份、大为股份涨停。下跌方面，煤炭板块走低，云能源能跌停；电池板块下挫，天际股份等跌停。个股跌多涨少，沪深京三市超4100股飘绿，今日成交1.94万亿。截止收盘沪指跌0.81%，深成指跌0.92%，创业板指跌1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3006322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "AI云公司Lambda融资超15亿美元，本轮融资将用于购置英伟达GPU及扩建数据中心。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3006502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
-          "url": "https://flash.jin10.com/detail/20251118175557810800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
-          "url": "https://wallstreetcn.com/articles/3759546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 16时20分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 23时17分]"
-        },
-        {
-          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
-          "url": "https://wallstreetcn.com/livenews/3006401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时18分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
-          "url": "https://flash.jin10.com/detail/20251118120343282800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时15分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            23,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时30分 ~ 23时17分]"
+          "time_info": "00时20分"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -309,170 +59,67 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时16分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251118004426248800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时21分]"
-        },
-        {
-          "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
-          "url": "https://flash.jin10.com/detail/20251118051844797800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时14分]"
-        },
-        {
-          "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
-          "url": "https://wallstreetcn.com/livenews/3006232",
+          "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
+          "url": "https://wallstreetcn.com/livenews/3006629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时15分]"
-        },
-        {
-          "title": "蚂蚁旗下OceanBase发布首款AI数据库，IPO“正常准备中”",
-          "url": "https://wallstreetcn.com/livenews/3006469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
-        },
-        {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时16分 ~ 23时17分]"
-        },
-        {
-          "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
-          "url": "https://www.zhihu.com/question/1966326160255344700",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时16分 ~ 23时17分]"
-        },
-        {
-          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
-          "url": "https://flash.jin10.com/detail/20251118154840821800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "00时20分"
         },
         {
-          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
-          "url": "https://wallstreetcn.com/livenews/3006420",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "00时20分"
         },
         {
-          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
-          "url": "https://wallstreetcn.com/articles/3759594",
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "00时20分"
         },
         {
-          "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
-          "url": "https://wallstreetcn.com/livenews/3006092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
-          "url": "https://wallstreetcn.com/livenews/3006418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "韩国与阿联酋签署人工智能战略合作框架。",
-          "url": "https://flash.jin10.com/detail/20251118184134113800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
-          "url": "https://www.cls.cn/detail/2202782",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006622",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "00时20分"
         },
         {
-          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
-          "url": "https://wallstreetcn.com/livenews/3006131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
-          "url": "https://wallstreetcn.com/livenews/3005945",
+          "title": "摩根大通副董事长警告称：AI估值可能出现“调整”",
+          "url": "https://wallstreetcn.com/livenews/3006619",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
@@ -482,70 +129,48 @@
           "time_info": "00时20分"
         },
         {
-          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
-          "url": "https://flash.jin10.com/detail/20251117231526009800",
-          "source": "金十数据",
+          "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
+          "url": "https://www.zhihu.com/question/1966326160255344700",
+          "source": "知乎",
           "ranks": [
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
         },
         {
-          "title": "重庆：到2030年，人工智能终端产业规模达3000亿元以上",
-          "url": "https://wallstreetcn.com/livenews/3006446",
-          "source": "华尔街见闻-快讯",
+          "title": "AI热潮遇冷：美科技股周二集体下跌 英伟达财报成焦点",
+          "url": "https://flash.jin10.com/detail/20251118232502485800",
+          "source": "金十数据",
           "ranks": [
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "00时20分"
         },
         {
-          "title": "美方高级官员：美国与沙特预计将达成国防、核能及人工智能相关协议",
-          "url": "https://flash.jin10.com/detail/20251118222538177800",
-          "source": "金十数据",
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "卢伟冰表示，行业每隔几年就会进入内存涨跌周期，本轮周期主要是由AI带动HPC需求暴增引发的变化。今年一二季度内存价格突然上涨，三季度价格猛涨，预估四季度涨幅将更大。（一财）",
-          "url": "https://wallstreetcn.com/livenews/3006574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "夸克全面接入千问对话助手，将发布全新AI浏览器",
-          "url": "https://wallstreetcn.com/livenews/3006333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "00时20分"
         },
         {
-          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
-          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "title": "OpenAI：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20251118232058871800",
           "source": "金十数据",
           "ranks": [
-            30
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时17分"
+          "time_info": "00时20分"
         }
       ]
     }

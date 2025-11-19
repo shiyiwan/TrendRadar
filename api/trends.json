@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T07:15:19.109873+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-11-19T09:05:16.771640+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -43,6 +43,21 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "谷歌正式发布Gemini3",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            16,
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 09时05分]"
+        },
+        {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -51,25 +66,12 @@
             3,
             4,
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "谷歌正式发布Gemini3",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时22分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时05分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -77,11 +79,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时05分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -106,11 +109,12 @@
             19,
             22,
             25,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时05分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -135,6 +139,41 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1974260216498500253",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时14分 ~ 09时05分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
           "url": "https://flash.jin10.com/detail/20251119040743481800",
           "source": "金十数据",
@@ -152,7 +191,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -185,21 +224,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时14分 ~ 07时15分]"
         },
         {
           "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
@@ -215,6 +242,28 @@
           "time_info": "[02时22分 ~ 04时18分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
+          "url": "https://wallstreetcn.com/articles/3759594",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
           "url": "https://wallstreetcn.com/livenews/3006629",
           "source": "华尔街见闻-快讯",
@@ -225,6 +274,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "20年来首现“过度投资”！美银基金经理调查：AI泡沫已成市场上最大“尾部投资”",
+          "url": "https://wallstreetcn.com/articles/3759640",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
+          "url": "https://www.cls.cn/detail/2204353",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
+          "url": "https://www.cls.cn/detail/2204388",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -245,7 +327,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -267,7 +349,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -333,7 +415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -366,7 +448,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -399,9 +481,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "华泰证券：建议持续关注“千问”项目相关业务进展及相应受益的AI基础设施上游标的",
+          "url": "https://flash.jin10.com/detail/20251119081732338800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "AI热潮遇冷：美科技股周二集体下跌 英伟达财报成焦点",

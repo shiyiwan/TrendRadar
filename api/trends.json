@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T05:15:36.964891+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-12-04T06:16:25.654205+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -41,8 +41,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 06时16分]"
+        },
+        {
+          "title": "维基百科创始人Wale证实正在与科技巨头洽谈其他人工智能合作事宜。",
+          "url": "https://flash.jin10.com/detail/20251204053932306800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
@@ -80,6 +91,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://wallstreetcn.com/livenews/3014617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
@@ -131,25 +154,47 @@
         },
         {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
-          "url": "https://wallstreetcn.com/livenews/3014617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
           "url": "https://flash.jin10.com/detail/20251204042941294800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3014638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3014632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "云数据服务公司Snowflake与Anthropic宣布达成2亿美元合作，旨在将代理AI引入全球企业。",
+          "url": "https://flash.jin10.com/detail/20251204051202803800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
@@ -161,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "Anthropic首席执行官警告称，一些人工智能巨头正在不计后果地在数据中心和芯片上投入数千亿美元，整个行业正押注于尚不确定的经济回报。",
+          "url": "https://flash.jin10.com/detail/20251204045609603800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T22:17:25.900501+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2025-12-04T23:18:42.966828+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时18分 ~ 22时17分]"
+          "appearance_count": 11,
+          "time_info": "[18时18分 ~ 23时18分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -67,11 +67,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时17分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[15时17分 ~ 23时18分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -230,6 +231,18 @@
           "time_info": "[17时19分 ~ 18时19分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时18分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -274,17 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
-          "url": "https://www.cls.cn/detail/2220060",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",

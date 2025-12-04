@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:19:15.807248+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2025-12-04T19:16:16.201506+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时25分 ~ 18时19分]"
+          "appearance_count": 16,
+          "time_info": "[12时25分 ~ 19时16分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时21分 ~ 11时16分]"
+        },
+        {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时17分 ~ 19时16分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -74,28 +87,16 @@
           "time_info": "[03时14分 ~ 11时16分]"
         },
         {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 18时19分]"
-        },
-        {
           "title": "实测欧洲版Deepseek水平如何",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "钎城 Gemini",
@@ -130,6 +131,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时15分 ~ 16时23分]"
+        },
+        {
+          "title": "民航局出台意见 推动“人工智能+民航”深度融合创新",
+          "url": "https://wallstreetcn.com/livenews/3015129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
@@ -179,6 +191,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时06分 ~ 11时16分]"
+        },
+        {
+          "title": "陈都灵TFBOYS同框 诡异到像AI",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
@@ -308,17 +332,6 @@
           "time_info": "[02时24分 ~ 03时15分]"
         },
         {
-          "title": "陈都灵TFBOYS同框 诡异到像AI",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
           "title": "为什么大家都为将要到来的 AI 感到莫名焦虑?",
           "url": "https://www.zhihu.com/question/648273195",
           "source": "知乎",
@@ -372,9 +385,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "欧盟对Meta在WhatsApp上的AI政策展开反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251204182458744800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
@@ -416,7 +440,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -438,7 +462,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -526,7 +550,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }

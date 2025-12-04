@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:20:03.309899+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-04T18:19:15.807248+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 18时19分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -74,6 +74,30 @@
           "time_info": "[03时14分 ~ 11时16分]"
         },
         {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 18时19分]"
+        },
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
           "title": "钎城 Gemini",
           "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -94,18 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "买家AI合成“死蟹”骗退款被拘留8日",
@@ -169,6 +181,17 @@
           "time_info": "[09时06分 ~ 11时16分]"
         },
         {
+          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
+          "url": "https://www.zhihu.com/question/1979645846510335630",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 18时19分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -213,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
+          "url": "https://wallstreetcn.com/livenews/3015061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时19分]"
         },
         {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
@@ -273,15 +308,15 @@
           "time_info": "[02时24分 ~ 03时15分]"
         },
         {
-          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
-          "url": "https://www.zhihu.com/question/1979645846510335630",
-          "source": "知乎",
+          "title": "陈都灵TFBOYS同框 诡异到像AI",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "为什么大家都为将要到来的 AI 感到莫名焦虑?",
@@ -331,6 +366,17 @@
           "time_info": "[02时24分 ~ 03时15分]"
         },
         {
+          "title": "Palantir发布用于美国人工智能建设的“链式反应”操作系统。",
+          "url": "https://flash.jin10.com/detail/20251204173854061800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
           "url": "https://flash.jin10.com/detail/20251204042941294800",
           "source": "金十数据",
@@ -340,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
-          "url": "https://wallstreetcn.com/livenews/3015061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "金十数据整理：今年OpenAI收购/整合动作频频 战略布局持续扩展加深",
@@ -375,6 +410,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "消息人士称，Meta将因在WhatsApp中使用人工智能面临欧盟反垄断调查。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3015081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3014632",
           "source": "华尔街见闻-快讯",
@@ -384,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "消息人士：Meta公司因在WhatsApp中使用人工智能，或将面临欧盟反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20251204171858507800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "德意志银行：AI投资主题利好亚洲 但波动性将加剧",
@@ -461,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "罗永浩说AI助手一定会遍地开花",
+          "url": "https://www.toutiao.com/trending/7579320656564027435/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     }

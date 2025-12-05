@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:15:51.244563+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-12-05T20:31:10.718660+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时15分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时15分 ~ 20时31分]"
         },
         {
           "title": "实测欧洲版Deepseek水平如何",
@@ -97,11 +97,25 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时31分]"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时31分]"
         },
         {
           "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
@@ -193,18 +207,6 @@
           "time_info": "[15时17分 ~ 17时17分]"
         },
         {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时15分]"
-        },
-        {
           "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
           "url": "https://www.cls.cn/detail/2220480",
           "source": "财联社热门",
@@ -214,6 +216,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时20分 ~ 17时17分]"
+        },
+        {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
         },
         {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
@@ -226,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时24分]"
+        },
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T02:20:25.701777+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-06T03:13:26.772355+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -35,11 +35,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
+        },
+        {
+          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3016071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时20分]"
+          "time_info": "[02时20分 ~ 03时13分]"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3016071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         }
       ]
     }

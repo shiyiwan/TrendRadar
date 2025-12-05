@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-05T14:24:06.426943+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-12-05T15:18:03.025078+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "任正非最新发声！涉及人工智能，信息量很大",
+          "url": "https://www.cls.cn/detail/2220393",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 15时18分]"
+        },
         {
           "title": "实测欧洲版Deepseek水平如何",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
@@ -21,8 +34,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 14时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时21分 ~ 15时18分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -37,6 +50,19 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
+          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3760723",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 15时18分]"
+        },
+        {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
@@ -49,31 +75,6 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "任正非最新发声！涉及人工智能，信息量很大",
-          "url": "https://www.cls.cn/detail/2220393",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 14时24分]"
-        },
-        {
-          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3760723",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 14时24分]"
-        },
-        {
           "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
           "url": "https://wallstreetcn.com/articles/3760706",
           "source": "华尔街见闻",
@@ -82,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 15时18分]"
         },
         {
           "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
@@ -95,6 +96,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "如何评价江苏大学 22 级本科生在 CCF-A/B 类人工智能领域顶会和 TOP 期刊发表论文 12 篇？",
+          "url": "https://www.zhihu.com/question/1979901758026293368",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 15时18分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
@@ -150,18 +164,6 @@
           "time_info": "[01时19分 ~ 04时18分]"
         },
         {
-          "title": "如何评价江苏大学 22 级本科生在 CCF-A/B 类人工智能领域顶会和 TOP 期刊发表论文 12 篇？",
-          "url": "https://www.zhihu.com/question/1979901758026293368",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 14时24分]"
-        },
-        {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
           "url": "https://wallstreetcn.com/livenews/3015608",
           "source": "华尔街见闻-快讯",
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时24分]"
+        },
+        {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",

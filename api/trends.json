@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:21:10.974738+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-06T15:14:34.476021+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 15时14分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -49,20 +49,6 @@
           "time_info": "[00时19分 ~ 11时06分]"
         },
         {
-          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
-          "url": "https://flash.jin10.com/detail/20251206104148777800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时21分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -72,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 15时14分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -84,8 +70,51 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 15时14分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 15时14分]"
+        },
+        {
+          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
+          "url": "https://flash.jin10.com/detail/20251206104148777800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            14,
+            19,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时17分 ~ 14时21分]"
+          "time_info": "[11时06分 ~ 15时14分]"
+        },
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            20,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时14分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -111,32 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "ChatGPT产品负责人回应广告传闻",
-          "url": "https://flash.jin10.com/detail/20251206101132584800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时21分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 14时21分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",

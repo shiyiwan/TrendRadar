@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T17:23:34.341668+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-12-08T18:18:48.434139+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 18时18分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -59,11 +59,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时18分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-08）",

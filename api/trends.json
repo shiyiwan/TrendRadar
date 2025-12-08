@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-08T09:07:22.556322+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-12-08T11:18:30.177288+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
+          "url": "https://www.cls.cn/detail/2222232",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://shiyiwan.github.io/TrendRadar/img/news.jpg"
 }

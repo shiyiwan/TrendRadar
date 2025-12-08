@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:18:47.432269+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2025-12-08T14:26:33.987734+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             12,
             6,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 14时26分]"
+        },
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时17分 ~ 13时18分]"
+          "time_info": "[12时29分 ~ 14时26分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -29,20 +43,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时18分]"
-        },
-        {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 14时26分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-08）",

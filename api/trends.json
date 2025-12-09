@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T19:15:49.669250+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-12-09T20:31:47.599264+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -21,6 +21,20 @@
           "time_info": "[09时06分 ~ 15时19分]"
         },
         {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 20时31分]"
+        },
+        {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
           "url": "https://www.cls.cn/detail/2223631",
           "source": "财联社热门",
@@ -33,20 +47,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[12时24分 ~ 18时19分]"
-        },
-        {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 19时15分]"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时15分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时15分 ~ 20时31分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -91,6 +91,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时06分 ~ 15时19分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 20时31分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -118,8 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时15分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[13时15分 ~ 20时31分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -135,20 +149,6 @@
           "time_info": "[09时06分 ~ 15时19分]"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
           "source": "澎湃新闻",
@@ -157,11 +157,12 @@
             19,
             18,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 19时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 20时31分]"
         },
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -173,8 +174,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 20时31分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -187,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 20时31分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
@@ -198,8 +199,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 20时31分]"
         },
         {
           "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
@@ -208,7 +209,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -269,8 +270,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时31分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时31分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -284,18 +298,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时18分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -423,7 +425,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -456,7 +458,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -500,7 +502,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -560,6 +562,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
           "url": "https://flash.jin10.com/detail/20251209012659154800",
           "source": "金十数据",
@@ -591,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "微软加大对加拿大的投资力度，将进行190亿加元人工智能投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3017635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",

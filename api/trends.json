@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T22:17:49.899675+08:00",
-  "total_titles_processed": 2046,
+  "generated_at": "2025-12-09T23:18:50.734750+08:00",
+  "total_titles_processed": 2153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[16时22分 ~ 23时18分]"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[16时22分 ~ 23时18分]"
         },
         {
           "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
@@ -131,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[16时22分 ~ 23时18分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -148,8 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时15分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[13时15分 ~ 23时18分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -203,8 +203,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时18分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[15时18分 ~ 23时18分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -218,8 +218,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 23时18分]"
         },
         {
           "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
@@ -234,13 +234,24 @@
           "time_info": "[18时18分 ~ 21时33分]"
         },
         {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
           "url": "https://flash.jin10.com/detail/20251209215045442800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -262,7 +273,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -339,6 +350,18 @@
           "time_info": "[21时33分 ~ 22时17分]"
         },
         {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时18分]"
+        },
+        {
           "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
           "url": "https://www.zhihu.com/question/1981675433712976771",
           "source": "知乎",
@@ -375,18 +398,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时18分]"
-        },
-        {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时17分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -495,6 +506,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：人工智能最终会成为一件好东西，就像电脑一样。",
+          "url": "https://flash.jin10.com/detail/20251209225105125800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "商汤医疗：信任、数据与商业模式是当前AI医疗三大瓶颈",
           "url": "https://wallstreetcn.com/livenews/3017622",
           "source": "华尔街见闻-快讯",
@@ -523,9 +545,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：不预期人工智能会导致大规模失业。",
+          "url": "https://flash.jin10.com/detail/20251209225038607800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
@@ -616,13 +649,24 @@
           "time_info": "16时23分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特在华尔街日报CEO委员会峰会上表示：人工智能（AI）对生产力的作用比电脑更大。 预计AI并不会造成大规模失业。 AI将是一件好事，就像电脑那样。",
+          "url": "https://wallstreetcn.com/livenews/3017766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "欧盟反垄断官员呼吁增配资源 以应对AI时代科技巨头监管挑战",
           "url": "https://flash.jin10.com/detail/20251209212100757800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },

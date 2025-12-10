@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T15:19:49.345950+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2025-12-10T16:22:26.213301+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时22分 ~ 11时19分]"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 16时22分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -43,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时38分 ~ 15时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时38分 ~ 16时22分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -101,16 +114,15 @@
           "time_info": "[00时22分 ~ 09时30分]"
         },
         {
-          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
-          "url": "https://www.cls.cn/detail/2224818",
-          "source": "财联社热门",
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
@@ -122,6 +134,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时22分]"
         },
         {
           "title": "智谱开源“会操作手机的AI”",
@@ -303,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        },
-        {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",

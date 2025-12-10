@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:30:46.789468+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2025-12-10T11:19:35.687734+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -16,21 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 09时30分]"
-        },
-        {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 09时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 11时19分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -42,8 +29,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 09时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 11时19分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 11时19分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -84,13 +85,25 @@
           "time_info": "[00时22分 ~ 09时30分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 11时19分]"
+        },
+        {
           "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
           "url": "https://flash.jin10.com/detail/20251210092622322800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -133,16 +146,16 @@
           "time_info": "[03时12分 ~ 05时14分]"
         },
         {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
           "ranks": [
-            10,
-            7
+            19,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时38分 ~ 09时30分]"
+          "time_info": "[09时29分 ~ 11时19分]"
         },
         {
           "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
@@ -182,6 +195,17 @@
           "time_info": "[03时12分 ~ 05时14分]"
         },
         {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
           "url": "https://wallstreetcn.com/livenews/3017838",
           "source": "华尔街见闻-快讯",
@@ -192,17 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时16分]"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -343,7 +356,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         }

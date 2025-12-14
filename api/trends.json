@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:16:44.824503+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2025-12-14T14:22:42.269345+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时22分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -85,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时22分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -102,8 +103,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时12分 ~ 13时16分]"
+          "appearance_count": 19,
+          "time_info": "[01时12分 ~ 14时22分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -115,6 +116,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 14时22分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -143,18 +157,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "华尔街日报：OpenAI将取消员工股权归属期",
-          "url": "https://flash.jin10.com/detail/20251214105538781800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 13时16分]"
-        },
-        {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3020234",
           "source": "华尔街见闻-快讯",
@@ -172,11 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时22分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -191,6 +194,20 @@
           "time_info": "[09时14分 ~ 11时25分]"
         },
         {
+          "title": "广东人工智能和机器人产业核心指标位列全国第一",
+          "url": "https://wallstreetcn.com/livenews/3020326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 14时22分]"
+        },
+        {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
           "url": "https://wallstreetcn.com/articles/3761330",
           "source": "华尔街见闻",
@@ -203,19 +220,6 @@
           "time_info": "[11时24分 ~ 12时33分]"
         },
         {
-          "title": "广东人工智能和机器人产业核心指标位列全国第一",
-          "url": "https://wallstreetcn.com/livenews/3020326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 13时16分]"
-        },
-        {
           "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
           "url": "https://m.thepaper.cn/newsDetail_forward_32172560",
           "source": "澎湃新闻",
@@ -225,6 +229,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时32分 ~ 13时16分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时22分]"
         },
         {
           "title": "8小时让AI做3个游戏",
@@ -247,17 +263,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         }
       ]
     }

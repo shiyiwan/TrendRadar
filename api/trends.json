@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-15T15:21:43.867245+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-12-15T16:24:58.495851+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 16时24分]"
+        },
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 15时21分]"
         },
         {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
@@ -62,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 16时24分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -105,6 +106,18 @@
           "time_info": "[12时35分 ~ 12时36分]"
         },
         {
+          "title": "短剧女演员都快美成AI了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时24分]"
+        },
+        {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
           "url": "https://wallstreetcn.com/livenews/3020454",
           "source": "华尔街见闻-快讯",
@@ -138,13 +151,24 @@
           "time_info": "09时11分"
         },
         {
+          "title": "蚂蚁集团推出AI健康应用阿福",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BAAI%E5%81%A5%E5%BA%B7%E5%BA%94%E7%94%A8%E9%98%BF%E7%A6%8F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "广西：加快建设中国-东盟人工智能创新合作中心等创新服务平台",
           "url": "https://wallstreetcn.com/livenews/3020762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -182,17 +206,6 @@
           "time_info": "09时11分"
         },
         {
-          "title": "短剧女演员都快美成AI了",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "中信证券：看好国内AI产业从“跟跑”转向“并跑”，拉动整体产业的投资机会",
           "url": "https://wallstreetcn.com/livenews/3020494",
           "source": "华尔街见闻-快讯",
@@ -221,7 +234,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }

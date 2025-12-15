@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T05:15:51.057603+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-12-16T06:16:23.338104+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 06时16分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",

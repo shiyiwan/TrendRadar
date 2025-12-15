@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T14:27:05.677063+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-12-15T15:21:43.867245+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 15时21分]"
         },
         {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
@@ -57,6 +57,18 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时21分]"
+        },
+        {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
           "url": "https://wallstreetcn.com/livenews/3020397",
           "source": "华尔街见闻-快讯",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时21分]"
-        },
-        {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "小品天后大战AI是什么梗",
@@ -121,7 +122,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -137,13 +138,24 @@
           "time_info": "09时11分"
         },
         {
+          "title": "广西：加快建设中国-东盟人工智能创新合作中心等创新服务平台",
+          "url": "https://wallstreetcn.com/livenews/3020762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "因人工智能担忧，三星电子和SK海力士分别大跌4%和6.3%。韩国股市跌幅达2.8%，并将创下近四周来的最差表现。",
           "url": "https://wallstreetcn.com/livenews/3020719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -170,6 +182,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "短剧女演员都快美成AI了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "中信证券：看好国内AI产业从“跟跑”转向“并跑”，拉动整体产业的投资机会",
           "url": "https://wallstreetcn.com/livenews/3020494",
           "source": "华尔街见闻-快讯",
@@ -187,9 +210,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "一手好牌打稀烂,deepseek成弃子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     }

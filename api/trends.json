@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:17:20.857213+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-12-18T04:18:41.916927+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -50,8 +50,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 04时18分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T13:19:06.208838+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-17T14:24:50.918293+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -39,11 +39,12 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 14时24分]"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -63,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -140,6 +141,18 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时24分]"
+        },
+        {
           "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
           "url": "https://www.cls.cn/detail/2231043",
           "source": "财联社热门",
@@ -151,15 +164,16 @@
           "time_info": "[00时20分 ~ 01时20分]"
         },
         {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
+          "title": "虞书欣ThaiMu",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时24分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
@@ -184,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
-          "title": "虞书欣ThaiMu",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "即梦AI上新，支持声音、画面同步生成",
@@ -266,6 +269,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "何小鹏：当前没有AI泡沫，未来AI的市场有着巨大机遇",
+          "url": "https://wallstreetcn.com/livenews/3022172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
           "url": "https://flash.jin10.com/detail/20251217041047149800",
           "source": "金十数据",
@@ -286,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "千问上线国内首个AI小剧场玩法",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E4%B8%8A%E7%BA%BF%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AAAI%E5%B0%8F%E5%89%A7%E5%9C%BA%E7%8E%A9%E6%B3%95%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "哈塞特：人工智能将带动生产率增长2.5%-3%",
@@ -319,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "《重庆市推动“人工智能+”行动方案》印发",
+          "url": "https://wallstreetcn.com/livenews/3022150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "韩国测试借助人工智能监测冬季危险路况",

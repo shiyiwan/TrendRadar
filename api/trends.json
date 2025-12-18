@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T20:31:32.042262+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2025-12-18T21:33:39.277453+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时15分 ~ 20时31分]"
+          "appearance_count": 21,
+          "time_info": "[06时15分 ~ 21时33分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -33,6 +33,32 @@
           "time_info": "[11时17分 ~ 16时22分]"
         },
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时24分 ~ 21时33分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 21时33分]"
+        },
+        {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
@@ -46,19 +72,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时20分 ~ 13时19分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 20时31分]"
         },
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -89,19 +102,6 @@
           "time_info": "[11时17分 ~ 15时19分]"
         },
         {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时31分]"
-        },
-        {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
           "url": "https://www.zhihu.com/question/1984670354627651255",
           "source": "知乎",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时18分 ~ 17时22分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -320,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时19分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",

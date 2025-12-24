@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:41:38.806393+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-12-24T16:38:04.892950+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "上海市新增9款已完成登记的生成式人工智能服务",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -64,13 +64,24 @@
           "time_info": "[12时40分 ~ 12时41分]"
         },
         {
+          "title": "博主用AI将古画中的小孩“复活”了",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E5%B0%86%E5%8F%A4%E7%94%BB%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%AD%A9%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
           "url": "https://flash.jin10.com/detail/20251224115857022800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },

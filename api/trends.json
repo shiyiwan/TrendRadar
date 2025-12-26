@@ -1,12 +1,38 @@
 {
-  "generated_at": "2025-12-26T12:40:20.979870+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2025-12-26T16:37:08.283500+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 16时37分]"
+        },
+        {
+          "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
+          "url": "https://www.cls.cn/detail/2240698",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时37分]"
+        },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
           "url": "https://www.cls.cn/detail/2240453",
@@ -20,28 +46,16 @@
           "time_info": "[10时03分 ~ 12时40分]"
         },
         {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 12时40分]"
-        },
-        {
-          "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
-          "url": "https://www.cls.cn/detail/2240698",
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
           "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 16时37分]"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
@@ -53,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
-          "url": "https://www.cls.cn/detail/2240534",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 12时40分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -101,13 +103,46 @@
           "time_info": "[12时39分 ~ 12时40分]"
         },
         {
+          "title": "博士与AI联手造出千度阻燃新型材料",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%AB%E4%B8%8EAI%E8%81%94%E6%89%8B%E9%80%A0%E5%87%BA%E5%8D%83%E5%BA%A6%E9%98%BB%E7%87%83%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "UP主用AI挑战肉鸽游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-26）",
           "url": "https://flash.jin10.com/detail/20251226114833609800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -118,7 +153,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -129,7 +164,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -140,7 +175,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }

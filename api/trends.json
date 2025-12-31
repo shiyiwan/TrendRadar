@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T16:38:04.802364+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-12-31T20:55:07.905481+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -69,6 +69,19 @@
           "time_info": "[00时35分 ~ 12时43分]"
         },
         {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 20时55分]"
+        },
+        {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
           "url": "https://www.cls.cn/detail/2244203",
           "source": "财联社热门",
@@ -81,16 +94,26 @@
           "time_info": "[00时35分 ~ 04时31分]"
         },
         {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 16时38分]"
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -220,7 +243,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },

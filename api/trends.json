@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T12:47:34.783425+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-01-02T16:37:35.235930+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 12时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -28,30 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 12时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 16时37分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 12时47分]"
-        },
-        {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -61,11 +51,12 @@
             12,
             13,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 12时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -74,11 +65,12 @@
           "ranks": [
             11,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 12时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -89,8 +81,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 16时37分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时06分 ~ 12时47分]"
+          "time_info": "[12时46分 ~ 16时37分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -101,8 +105,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 12时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 16时37分]"
+        },
+        {
+          "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260102161552396800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -138,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 04时31分]"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -180,7 +206,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },

@@ -1,44 +1,58 @@
 {
-  "generated_at": "2026-01-04T00:32:41.761956+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-04T04:30:09.359624+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美食博主手搓对抗AI的一年",
           "url": "https://www.douyin.com/hot/2356059",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
           "url": "https://wallstreetcn.com/articles/3762468",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
           "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时30分]"
+        },
+        {
+          "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
+          "url": "https://flash.jin10.com/detail/20260104033259033800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "04时30分"
         }
       ]
     }

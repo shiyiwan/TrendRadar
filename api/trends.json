@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T12:38:11.238587+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-17T16:34:13.896618+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -20,6 +20,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 12时38分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 16时34分]"
         },
         {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
@@ -55,17 +78,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 04时29分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 12时38分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",

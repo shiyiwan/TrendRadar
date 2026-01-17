@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-18T00:32:12.458910+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-18T04:29:18.644224+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 04时29分]"
+        },
+        {
+          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
+          "url": "https://www.zhihu.com/question/659369541",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "time_info": "[04时28分 ~ 04时29分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -25,9 +37,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -36,9 +48,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -47,9 +59,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时29分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T04:29:18.644224+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-01-18T10:22:44.944484+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/659369541",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 10时22分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -62,6 +63,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
+          "url": "https://wallstreetcn.com/articles/3763514",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
+          "url": "https://wallstreetcn.com/articles/3763510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         }
       ]
     }

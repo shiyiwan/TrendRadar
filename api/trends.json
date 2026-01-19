@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-19T12:58:05.470420+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-01-19T16:42:24.826374+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 12时58分]"
-        },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
           "url": "https://wallstreetcn.com/articles/3763534",
@@ -27,6 +15,18 @@
             6,
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 16时42分]"
+        },
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -61,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -81,11 +81,24 @@
           "url": "https://wallstreetcn.com/articles/3763537",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 16时42分]"
+        },
+        {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 16时42分]"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
@@ -99,15 +112,26 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
-          "url": "https://www.cls.cn/detail/2261597",
-          "source": "财联社热门",
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "UP主手搓可食用的AI海洋方块",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-19）",
@@ -116,7 +140,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -138,7 +162,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }

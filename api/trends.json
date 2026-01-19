@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T16:42:24.826374+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-19T21:03:33.459643+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -66,6 +66,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
           "url": "https://wallstreetcn.com/articles/3763531",
           "source": "华尔街见闻",
@@ -101,6 +112,17 @@
           "time_info": "[12时57分 ~ 16时42分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
           "url": "https://www.cls.cn/detail/2261328",
           "source": "财联社热门",
@@ -112,6 +134,17 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
           "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
           "url": "https://www.zhihu.com/question/1995464531351135851",
           "source": "知乎",
@@ -121,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "UP主手搓可食用的AI海洋方块",

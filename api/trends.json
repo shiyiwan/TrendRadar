@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T12:54:31.027270+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-01-22T16:41:55.735739+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -87,6 +87,28 @@
           "time_info": "[01时02分 ~ 10时13分]"
         },
         {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
           "url": "https://flash.jin10.com/detail/20260122040302119800",
           "source": "金十数据",
@@ -155,6 +177,18 @@
           "time_info": "[01时02分 ~ 04时39分]"
         },
         {
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时41分]"
+        },
+        {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
           "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
           "source": "澎湃新闻",
@@ -165,17 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 04时39分]"
-        },
-        {
-          "title": "黄仁勋谈AI如何改变经济",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -200,13 +223,35 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
+          "title": "切入生成式AI赛道！苹果战略转向：首款AI聊天机器人要来了？",
+          "url": "https://www.cls.cn/detail/2265865",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-22）",
           "url": "https://flash.jin10.com/detail/20260122120251421800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -261,7 +306,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -319,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "王玉雯陈星旭撒糖给AI上了一课",
+          "url": "https://www.douyin.com/hot/2376144",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：西方国家对人工智能的乐观情绪较低。",

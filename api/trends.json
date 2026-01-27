@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T00:39:09.870799+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-01-28T04:31:48.901923+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -37,30 +26,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
           "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
           "url": "https://www.cls.cn/detail/2271472",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -70,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -91,7 +94,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         }

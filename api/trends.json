@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T10:33:17.617230+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-01-29T13:10:40.068556+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -28,8 +28,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 10时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 13时10分]"
+        },
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -43,6 +54,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 10时33分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时10分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -78,15 +100,15 @@
           "time_info": "[00时46分 ~ 04时39分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -98,6 +120,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
@@ -117,7 +161,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -128,7 +172,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -139,7 +183,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },

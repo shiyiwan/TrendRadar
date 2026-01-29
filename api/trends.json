@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T13:10:40.068556+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-01-29T16:51:28.588112+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -32,6 +32,17 @@
           "time_info": "[00时46分 ~ 13时10分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 16时51分]"
+        },
+        {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -41,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -56,15 +78,28 @@
           "time_info": "[00时46分 ~ 10时33分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时32分 ~ 13时10分]"
+          "time_info": "[13时09分 ~ 16时51分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 16时51分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -122,26 +157,37 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
@@ -164,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",

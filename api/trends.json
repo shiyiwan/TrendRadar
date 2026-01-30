@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-30T16:50:33.725159+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-01-30T21:09:13.950817+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 21,
       "titles": [
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 21时09分]"
+        },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
           "url": "https://wallstreetcn.com/articles/3764497",
@@ -30,33 +41,25 @@
             3,
             5,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 16时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 21时09分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
           "ranks": [
+            10,
+            4,
             1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时32分 ~ 16时50分]"
-        },
-        {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 04时38分]"
+          "time_info": "[13时12分 ~ 21时09分]"
         },
         {
           "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
@@ -68,8 +71,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 21时09分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时38分]"
         },
         {
           "title": "SpaceX或与xAI合并",
@@ -92,18 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 16时50分]"
         },
         {
           "title": "我的马耶这春晚AI做的",

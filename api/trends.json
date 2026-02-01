@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T10:53:54.780652+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-02-01T13:25:21.194542+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -19,15 +19,39 @@
           "time_info": "[00时36分 ~ 04时33分]"
         },
         {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 13时25分]"
+        },
+        {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
           "url": "https://www.zhihu.com/question/2000979139897811762",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时25分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -42,16 +66,16 @@
           "time_info": "[04时33分 ~ 10时53分]"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时25分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -64,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -123,15 +158,15 @@
           "time_info": "[00时37分 ~ 04时33分]"
         },
         {
-          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
-          "url": "https://wallstreetcn.com/articles/3764648",
-          "source": "华尔街见闻",
+          "title": "AI辅助医疗是神助手还是猪队友",
+          "url": "https://www.toutiao.com/trending/7601667319894655018/",
+          "source": "今日头条",
           "ranks": [
-            10
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",

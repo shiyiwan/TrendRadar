@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T04:33:52.656712+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-02-01T10:53:54.780652+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -19,6 +19,29 @@
           "time_info": "[00时36分 ~ 04时33分]"
         },
         {
+          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
+          "url": "https://www.zhihu.com/question/2000979139897811762",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 10时53分]"
+        },
+        {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
           "url": "https://www.cls.cn/detail/2275533",
           "source": "财联社热门",
@@ -27,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 10时53分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -100,15 +123,15 @@
           "time_info": "[00时37分 ~ 04时33分]"
         },
         {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "10时53分"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -117,7 +140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         }

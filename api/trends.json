@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T16:54:20.530956+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-02-02T21:14:02.099128+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -75,7 +75,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -85,11 +85,23 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 21时14分]"
+        },
+        {
+          "title": "为什么律师不会完全被 AI 取代？",
+          "url": "https://www.zhihu.com/question/452243069",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -142,9 +154,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "消息称马斯克推进SpaceX、xAI合并，最快本周达成协议",
+          "url": "https://flash.jin10.com/detail/20260202204430933800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
@@ -164,7 +187,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }

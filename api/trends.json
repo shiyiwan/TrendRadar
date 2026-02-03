@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T16:48:50.679553+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-02-03T21:14:57.074452+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "SpaceX官宣收购xAI",
@@ -20,6 +20,20 @@
           "time_info": "[10时39分 ~ 13时18分]"
         },
         {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 21时14分]"
+        },
+        {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
           "url": "https://www.cls.cn/detail/2278467",
           "source": "财联社热门",
@@ -27,19 +41,6 @@
             9,
             5,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 16时48分]"
-        },
-        {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -75,7 +76,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "美联储理事米兰：美联储应适应人工智能驱动的劳动力市场转型。 美联储货币政策过于紧缩。 没有监管改革，就无法缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3049136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
@@ -123,8 +135,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 21时14分]"
         },
         {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
@@ -177,7 +189,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -193,6 +205,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
           "url": "https://flash.jin10.com/detail/20260203130436001800",
           "source": "金十数据",
@@ -202,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "消息人士称，部分XAI高管可能会选择以每股75.46美元的价格获得现金，而不是SpaceX股票。",
@@ -237,15 +271,37 @@
           "time_info": "10时40分"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
           "url": "https://www.cls.cn/detail/2278690",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "一图看懂|三大巨头豪掷45亿！2026春节AI红包大战打响",
+          "url": "https://www.cls.cn/detail/2279165",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "泰雷兹集团与新加坡经济发展局签署三项谅解备忘录，以加强在新加坡的人工智能和制造业。",
@@ -257,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "上海“人工智能+”行动再深化，目标新增超50家先进智能工厂",

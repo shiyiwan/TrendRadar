@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:53:52.767957+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-04T21:14:00.447083+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 21时14分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时33分 ~ 16时53分]"
+          "time_info": "[13时13分 ~ 21时14分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -42,17 +54,6 @@
           "time_info": "[10时33分 ~ 13时13分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 16时53分]"
-        },
-        {
           "title": "春节为何成为AI红包主战场",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -65,13 +66,24 @@
           "time_info": "[01时01分 ~ 04时46分]"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -133,6 +145,29 @@
           "time_info": "[10时33分 ~ 13时13分]"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 21时14分]"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 21时14分]"
+        },
+        {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
           "url": "https://www.cls.cn/detail/2279188",
           "source": "财联社热门",
@@ -142,6 +177,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "美股爆发AI恐慌性抛售",
@@ -172,18 +229,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -227,20 +273,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
         {
-          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
-          "url": "https://wallstreetcn.com/articles/3764867",
-          "source": "华尔街见闻",
+          "title": "摩尔线程CEO张建中：中国有最多的AI用户和开发者，会诞生最大的生态系统",
+          "url": "https://wallstreetcn.com/livenews/3049883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "21时14分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-04）",
@@ -271,7 +317,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -331,6 +377,17 @@
           "time_info": "13时13分"
         },
         {
+          "title": "美媒：美参议员敦促审查科技巨头AI交易的反垄断风险",
+          "url": "https://flash.jin10.com/detail/20260204202726782800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "市场消息：达索系统与英伟达(NVDA.O)将携手打造跨行业人工智能架构。",
           "url": "https://flash.jin10.com/detail/20260204001237926800",
           "source": "金十数据",
@@ -359,9 +416,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "市场消息：达索系统与英伟达(NVDA.O)合作，打造工业人工智能平台。",
@@ -373,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据CNBC：美国民主党参议员沃伦及其他人士敦促美国联邦贸易委员会（FTC）严查科技领域的人工智能交易。",
+          "url": "https://flash.jin10.com/detail/20260204201814644800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -414,7 +493,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },

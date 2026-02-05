@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T13:21:28.053415+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-02-05T16:55:18.919993+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 16时55分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 16时55分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -39,8 +39,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 16时55分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 16时55分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -77,16 +89,50 @@
           "time_info": "[00时58分 ~ 04时42分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
           "source": "财联社热门",
           "ranks": [
-            11,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 13时21分]"
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 16时55分]"
+        },
+        {
+          "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
+          "url": "https://wallstreetcn.com/livenews/3050530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
@@ -112,16 +158,16 @@
           "time_info": "[00时58分 ~ 10时36分]"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时35分 ~ 13时21分]"
+          "time_info": "[13时20分 ~ 16时55分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -135,15 +181,15 @@
           "time_info": "[00时58分 ~ 04时42分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "特斯拉AI总监：自动驾驶只需摄像头",
@@ -168,6 +214,17 @@
           "time_info": "[10时35分 ~ 10时36分]"
         },
         {
+          "title": "你如何看待中国AI在冬奥会应用",
+          "url": "https://www.toutiao.com/trending/7603226653370875930/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
           "source": "澎湃新闻",
@@ -190,6 +247,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
+          "url": "https://wallstreetcn.com/livenews/3050517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
           "url": "https://flash.jin10.com/detail/20260205000132711800",
           "source": "金十数据",
@@ -199,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "腾讯游戏：开始灰度测试成长守护平台AI相关功能",
+          "url": "https://wallstreetcn.com/livenews/3050511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "我国互联网普及率突破80%，生成式人工智能用户规模超6亿人",
@@ -218,7 +297,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },

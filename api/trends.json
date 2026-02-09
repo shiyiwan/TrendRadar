@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T13:41:44.649707+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-02-09T17:02:46.759822+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 04时36分]"
+        },
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 17时02分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -64,15 +75,16 @@
           "time_info": "[00时39分 ~ 04时36分]"
         },
         {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
           "ranks": [
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时41分]"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 17时02分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -124,15 +136,15 @@
           "time_info": "[00时39分 ~ 10时44分]"
         },
         {
-          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
-          "url": "https://www.cls.cn/detail/2284177",
-          "source": "财联社热门",
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "17时02分"
         },
         {
           "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
@@ -141,9 +153,44 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 17时02分]"
+        },
+        {
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 17时02分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -167,30 +214,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 04时36分]"
-        },
-        {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时41分]"
-        },
-        {
-          "title": "OpenClaw走红，个人AI代理时代真的来了",
-          "url": "https://wallstreetcn.com/articles/3765254",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时41分]"
         },
         {
           "title": "这会是改变视频行业的AI吗",
@@ -254,9 +277,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
@@ -265,7 +299,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -276,7 +310,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },

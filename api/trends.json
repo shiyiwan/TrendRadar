@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T13:40:33.432177+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-02-16T16:58:06.658046+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -16,8 +16,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
+        },
+        {
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -30,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -43,21 +57,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
         },
         {
-          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
-          "url": "https://wallstreetcn.com/articles/3765760",
-          "source": "华尔街见闻",
+          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
           "ranks": [
-            5,
             6,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
         },
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -82,16 +95,17 @@
           "time_info": "[00时39分 ~ 10时42分]"
         },
         {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
@@ -103,6 +117,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 04时36分]"
+        },
+        {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            25,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 16时58分]"
+        },
+        {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -117,17 +156,27 @@
           "time_info": "[00时39分 ~ 04时36分]"
         },
         {
-          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
-          "url": "https://www.cls.cn/detail/2290580",
-          "source": "财联社热门",
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 16时58分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -137,19 +186,6 @@
             9,
             10,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时40分]"
-        },
-        {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            25,
-            26
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -168,15 +204,40 @@
           "time_info": "[00时39分 ~ 13时40分]"
         },
         {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 16时58分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 16时58分]"
+        },
+        {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
           "url": "https://wallstreetcn.com/livenews/3055681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 16时58分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -202,17 +263,6 @@
           "time_info": "[00时39分 ~ 04时36分]"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时40分]"
-        },
-        {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
           "source": "澎湃新闻",
@@ -225,15 +275,15 @@
           "time_info": "[00时39分 ~ 04时36分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -247,6 +297,17 @@
           "time_info": "[13时39分 ~ 13时40分]"
         },
         {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
           "url": "https://wallstreetcn.com/livenews/3055622",
           "source": "华尔街见闻-快讯",
@@ -256,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 04时36分]"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
         },
         {
           "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
@@ -279,6 +329,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时42分 ~ 13时40分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "UP主联合手搓AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E6%89%8B%E6%90%93AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "Anthropic：印度团队将为企业客户、数字原生企业和初创公司提供应用人工智能专业知识。",
+          "url": "https://flash.jin10.com/detail/20260216161247146800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "OpenClaw之父加入OpenAI",
@@ -323,6 +417,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
+          "url": "https://flash.jin10.com/detail/20260216153347079800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     }

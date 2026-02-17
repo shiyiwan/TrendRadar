@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T10:39:15.792665+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-02-17T13:25:05.400764+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -27,20 +27,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
         },
         {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            4,
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -51,21 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -76,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -85,6 +74,18 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
             3,
             2
           ],
@@ -112,8 +113,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -124,8 +125,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时25分]"
+        },
+        {
+          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+          "url": "https://wallstreetcn.com/livenews/3055884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 13时25分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -162,6 +185,17 @@
           "time_info": "[00时54分 ~ 04时40分]"
         },
         {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
           "url": "https://wallstreetcn.com/livenews/3055799",
           "source": "华尔街见闻-快讯",
@@ -174,15 +208,15 @@
           "time_info": "[00时54分 ~ 04时40分]"
         },
         {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
+          "title": "春晚AI率比我论文高",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎推出现在春晚",
@@ -194,6 +228,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "马年迎好运 AI定制新春祝福",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E8%BF%8E%E5%A5%BD%E8%BF%90+AI%E5%AE%9A%E5%88%B6%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
+          "url": "https://wallstreetcn.com/livenews/3055850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时25分]"
         },
         {
           "title": "华尔街女股神：卖出AI的人都会后悔",
@@ -213,7 +270,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -235,7 +292,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -262,15 +319,37 @@
           "time_info": "00时54分"
         },
         {
-          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
-          "url": "https://wallstreetcn.com/livenews/3055850",
-          "source": "华尔街见闻-快讯",
+          "title": "印孚瑟斯：将为各公司开发并交付先进企业人工智能解决方案。",
+          "url": "https://flash.jin10.com/detail/20260217120631433800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "报告显示我国人工智能治理体系建设加速演进",
+          "url": "https://flash.jin10.com/detail/20260217120307895800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "印孚瑟斯：与Anthropic合作以在复杂受监管行业释放人工智能价值。",
+          "url": "https://flash.jin10.com/detail/20260217120223362800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -279,7 +358,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }

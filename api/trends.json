@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T00:37:54.840837+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T04:33:34.073643+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,30 +26,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
           "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 04时33分]"
         }
       ]
     }

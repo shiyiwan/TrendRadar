@@ -1,231 +1,110 @@
 {
-  "generated_at": "2026-02-22T21:03:20.570707+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-02-23T00:39:15.654206+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 18,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 21时03分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 21时03分]"
-        },
-        {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
-          "ranks": [
-            16,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 21时03分]"
-        },
-        {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            8,
-            11,
-            14,
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 21时03分]"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 16时41分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 21时03分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 21时03分]"
-        },
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 16时41分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 21时03分]"
-        },
-        {
-          "title": "Seedance2.0重写全球AI版图",
-          "url": "https://www.douyin.com/hot/2407569",
-          "source": "抖音",
-          "ranks": [
-            10,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 16时41分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 21时03分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
           "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
-          "url": "https://www.zhihu.com/question/2003060035803116831",
-          "source": "知乎",
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
-          "url": "https://wallstreetcn.com/livenews/3057217",
-          "source": "华尔街见闻-快讯",
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            25
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时19分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "title": "Seedance2.0重写全球AI版图",
+          "url": "https://www.douyin.com/hot/2407569",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
+        },
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
           "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
-          "url": "https://wallstreetcn.com/articles/3765936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
-          "url": "https://wallstreetcn.com/articles/3765927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "央视军事最新AI大片发布",
-          "url": "https://www.toutiao.com/trending/7608653159187300415/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "[00时38分 ~ 00时39分]"
         }
       ]
     }

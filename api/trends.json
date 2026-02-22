@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T13:19:40.367174+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-02-22T16:41:24.983602+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 16时41分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 16时41分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -42,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 16时41分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -56,8 +56,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 16时41分]"
+        },
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 16时41分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -65,11 +77,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 16时41分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -77,11 +90,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 16时41分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -92,8 +106,41 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 16时41分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时19分]"
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
+          "url": "https://www.zhihu.com/question/2003060035803116831",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -108,15 +155,15 @@
           "time_info": "[10时42分 ~ 13时19分]"
         },
         {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时19分]"
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -125,7 +172,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },

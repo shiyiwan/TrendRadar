@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T04:53:52.656450+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-24T10:39:56.531119+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时39分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -25,9 +47,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -36,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -57,11 +90,12 @@
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时39分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -69,11 +103,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时39分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -81,11 +116,34 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时39分]"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
@@ -105,7 +163,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -116,7 +174,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -127,7 +185,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -149,7 +207,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -171,7 +229,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }

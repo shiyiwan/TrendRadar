@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:44:35.560574+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-25T10:46:24.169833+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -52,13 +52,60 @@
           "time_info": "[01时13分 ~ 04时44分]"
         },
         {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 10时46分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 10时46分]"
+        },
+        {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
           "url": "https://flash.jin10.com/detail/20260225040115362800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -80,18 +127,6 @@
           "ranks": [
             12,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时44分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -133,15 +168,37 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时43分 ~ 04时44分]"
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "中方回应美称DeepSeek违反美出口管制",
@@ -172,7 +229,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -205,7 +262,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -216,7 +273,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -227,7 +284,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -238,7 +295,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -249,7 +306,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }

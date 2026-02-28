@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T12:59:57.571515+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-02-28T16:37:52.450078+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -43,6 +43,17 @@
           "time_info": "[00时49分 ~ 04时36分]"
         },
         {
+          "title": "中国AI跑出马年加速度",
+          "url": "https://www.douyin.com/hot/2414159",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时37分]"
+        },
+        {
           "title": "外媒爆料：美军想用AI攻击中国电网",
           "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
           "source": "凤凰网",
@@ -54,15 +65,18 @@
           "time_info": "[10时24分 ~ 12时59分]"
         },
         {
-          "title": "中国AI跑出马年加速度",
-          "url": "https://www.douyin.com/hot/2414159",
-          "source": "抖音",
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            12,
+            11,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 16时37分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -74,19 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 12时59分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -102,6 +103,18 @@
           "time_info": "[04时35分 ~ 12时59分]"
         },
         {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时37分]"
+        },
+        {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
           "url": "https://www.cls.cn/detail/2297724",
           "source": "财联社热门",
@@ -113,6 +126,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 12时59分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 16时37分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -127,6 +152,18 @@
           "time_info": "[00时49分 ~ 04时36分]"
         },
         {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 16时37分]"
+        },
+        {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
@@ -136,29 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 04时36分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 12时59分]"
-        },
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 12时59分]"
         },
         {
           "title": "AI算力需求驱动光纤行业步入景气周期",
@@ -196,6 +210,17 @@
           "time_info": "[04时35分 ~ 04时36分]"
         },
         {
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
           "url": "https://flash.jin10.com/detail/20260228092015676800",
           "source": "金十数据",
@@ -213,7 +238,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -224,7 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -235,20 +260,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
         {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
+          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
+          "url": "https://www.cls.cn/detail/2298037",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "16时37分"
         },
         {
           "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
@@ -273,13 +298,24 @@
           "time_info": "04时36分"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
           "url": "https://www.zhihu.com/question/2009928728206149091",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -301,7 +337,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -312,7 +348,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -334,7 +370,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -345,7 +381,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -367,7 +403,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -378,7 +414,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -411,7 +447,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },

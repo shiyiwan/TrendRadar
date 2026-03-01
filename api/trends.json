@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-01T13:20:58.866025+08:00",
-  "total_titles_processed": 784,
-  "failed_sources": [],
+  "generated_at": "2026-03-01T16:40:22.227904+08:00",
+  "total_titles_processed": 918,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 14,
       "titles": [
+        {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 16时40分]"
+        },
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
           "url": "https://wallstreetcn.com/articles/3766407",
@@ -19,16 +34,29 @@
           "time_info": "[00时34分 ~ 10时49分]"
         },
         {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            4
+            12,
+            10,
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 16时40分]"
+        },
+        {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 16时40分]"
         },
         {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
@@ -40,30 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 10时49分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 13时20分]"
-        },
-        {
-          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
-          "url": "https://www.zhihu.com/question/1950611259528549544",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "美政府罕见封杀本国AI企业Anthropic",
@@ -117,7 +121,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -150,7 +154,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },

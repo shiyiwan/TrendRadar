@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-02T04:35:46.341448+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-03-02T10:37:49.632079+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "演员逼真到根本看不出来是AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
@@ -14,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -24,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 10时37分]"
         },
         {
           "title": "AI短剧",
@@ -40,6 +52,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 04时35分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约，到手价最低1997元",
+          "url": "https://wallstreetcn.com/livenews/3061432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "澳大利亚考虑要求应用商店和搜索引擎下架存在安全隐患的AI服务。",
+          "url": "https://flash.jin10.com/detail/20260302101744342800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }

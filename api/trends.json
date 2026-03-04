@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-03-04T10:33:00.170851+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-03-04T13:13:06.939242+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时13分]"
+        },
+        {
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 13时13分]"
+        },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
@@ -20,28 +45,17 @@
           "time_info": "[00时57分 ~ 04时40分]"
         },
         {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
           "source": "澎湃新闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
+            19,
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时57分 ~ 10时33分]"
+          "time_info": "[04时39分 ~ 13时13分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -55,27 +69,60 @@
           "time_info": "04时40分"
         },
         {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 10时33分]"
-        },
-        {
           "title": "19岁天才少年做AI应用年入2亿",
           "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
           "source": "百度热搜",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时13分]"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "岳雨婷缺席balmain看秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "Anthropic 高薪聘请哲学家参与 AI 开发，AI 企业为何要引入哲学家？",
+          "url": "https://www.zhihu.com/question/2010739342163859155",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "建议为AI生成内容添加不可去除水印",
@@ -89,13 +136,24 @@
           "time_info": "[10时32分 ~ 10时33分]"
         },
         {
+          "title": "代表建议为AI内容添加不可去除水印",
+          "url": "https://www.toutiao.com/trending/7613178493744087103/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
           "title": "马云再现身，阿里核心高管罕见聚齐谈AI",
           "url": "https://wallstreetcn.com/livenews/3063204",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -161,7 +219,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -172,7 +230,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -183,7 +241,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }

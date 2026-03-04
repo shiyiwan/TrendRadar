@@ -1,308 +1,99 @@
 {
-  "generated_at": "2026-03-04T21:10:10.350532+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-03-05T00:56:22.890502+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 26,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 21时10分]"
-        },
-        {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 13时13分]"
-        },
-        {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时39分 ~ 16时50分]"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时40分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 21时10分]"
-        },
-        {
-          "title": "高通CEO：AI智能体将取代手机成为数字中心",
-          "url": "https://wallstreetcn.com/livenews/3062991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 21时10分]"
-        },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
           "source": "澎湃新闻",
           "ranks": [
-            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 21时10分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
+          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "source": "知乎",
           "ranks": [
-            13,
-            30
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 13时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
+          "url": "https://www.zhihu.com/question/1922608207504867947",
           "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "岳雨婷缺席balmain看秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
           "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "Anthropic 高薪聘请哲学家参与 AI 开发，AI 企业为何要引入哲学家？",
-          "url": "https://www.zhihu.com/question/2010739342163859155",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "建议为AI生成内容添加不可去除水印",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "代表建议为AI内容添加不可去除水印",
-          "url": "https://www.toutiao.com/trending/7613178493744087103/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时10分]"
-        },
-        {
-          "title": "马云再现身，阿里核心高管罕见聚齐谈AI",
-          "url": "https://wallstreetcn.com/livenews/3063204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3062986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
-          "url": "https://wallstreetcn.com/livenews/3062902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "备忘录称，新成立的应用人工智能工程团队将由Reality Labs部门的萨巴领导。",
-          "url": "https://flash.jin10.com/detail/20260304034551728800",
+          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
+          "url": "https://flash.jin10.com/detail/20260305002035785800",
           "source": "金十数据",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "00时56分"
         },
         {
-          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
-          "url": "https://wallstreetcn.com/livenews/3062972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "备忘录显示，Meta公司成立“应用人工智能工程”部门，以支持人工智能模型开发团队。",
-          "url": "https://flash.jin10.com/detail/20260304034550098800",
+          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
+          "url": "https://flash.jin10.com/detail/20260305000849896800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "高盛：股市因AI和伊朗回调带来买入机会 长期深度熊市的风险较低",
-          "url": "https://wallstreetcn.com/livenews/3063619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "日本太空一号：将在确定后公布“KAIROS”火箭新的发射日期。",
-          "url": "https://flash.jin10.com/detail/20260304100632979800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "日本太空一号中止“KAIROS”火箭发射。",
-          "url": "https://flash.jin10.com/detail/20260304100401835800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "日本太空一号“KAIROS”火箭未按计划发射时间升空。",
-          "url": "https://flash.jin10.com/detail/20260304100241902800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "00时56分"
         }
       ]
     }

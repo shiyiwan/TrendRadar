@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:54:01.223743+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-03-05T21:14:34.742354+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI猫咪的复工vlog",
@@ -16,11 +16,12 @@
             14,
             10,
             24,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 21时14分]"
         },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -46,6 +47,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 10时35分]"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 21时14分]"
         },
         {
           "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
@@ -82,6 +107,18 @@
           "time_info": "[00时55分 ~ 10时35分]"
         },
         {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时14分]"
+        },
+        {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
           "source": "澎湃新闻",
@@ -91,18 +128,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 04时39分]"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时54分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -117,15 +142,15 @@
           "time_info": "[00时55分 ~ 04时39分]"
         },
         {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -137,6 +162,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "不建议大学生直接用AI写论文",
@@ -178,7 +226,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -192,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)首席执行官阿贝尔：未使用人工智能撰写伯克希尔年度信函。",
+          "url": "https://flash.jin10.com/detail/20260305205839504800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
@@ -233,7 +292,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -343,7 +402,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },

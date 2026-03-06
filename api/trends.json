@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T04:44:39.612522+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-06T10:34:02.105768+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -19,6 +19,55 @@
           "time_info": "[02时10分 ~ 04时44分]"
         },
         {
+          "title": "OpenAI发布GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
+          "url": "https://www.cls.cn/detail/2304328",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 10时34分]"
+        },
+        {
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 10时34分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 10时34分]"
+        },
+        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -30,39 +79,26 @@
           "time_info": "[02时10分 ~ 04时44分]"
         },
         {
-          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
-          "url": "https://www.cls.cn/detail/2304328",
-          "source": "财联社热门",
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 04时44分]"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
+          "title": "号称最强模型 OpenAI GPT-5.4发布",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 04时44分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 04时44分]"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -82,7 +118,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -93,7 +129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -115,7 +151,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -126,7 +162,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -137,7 +173,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }

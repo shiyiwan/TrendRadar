@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:13:54.584838+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-03-06T16:48:40.940329+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -56,6 +56,17 @@
           "time_info": "[10时33分 ~ 10时34分]"
         },
         {
+          "title": "全国首例AI幻觉侵权纠纷案判了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
@@ -75,7 +86,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -86,9 +97,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -97,9 +119,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 16时48分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -113,16 +147,16 @@
           "time_info": "[02时10分 ~ 04时44分]"
         },
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时13分]"
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 16时48分]"
         },
         {
           "title": "号称最强模型 OpenAI GPT-5.4发布",
@@ -134,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -158,15 +203,15 @@
           "time_info": "04时44分"
         },
         {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "16时48分"
         },
         {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
@@ -175,7 +220,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -186,7 +231,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -197,7 +242,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -230,7 +275,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -241,9 +286,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "天猫一场直播汇集百款AI新品",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%B1%87%E9%9B%86%E7%99%BE%E6%AC%BEAI%E6%96%B0%E5%93%81%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
@@ -252,7 +319,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },

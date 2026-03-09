@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T01:02:32.951690+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-10T04:42:33.479224+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
-          "url": "https://www.zhihu.com/question/2014268583652320290",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时42分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时42分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -48,8 +39,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时42分]"
+        },
+        {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时42分]"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -58,7 +61,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -67,22 +70,24 @@
           "url": "https://www.zhihu.com/question/2013945403444257055",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时42分]"
         },
         {
           "title": "小片片解读AI神作牌子",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时42分]"
         },
         {
           "title": "英特尔(INTC.O)发布具备实时性能的第二代酷睿处理器，并扩展其边缘人工智能产品组合。",
@@ -91,7 +96,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }

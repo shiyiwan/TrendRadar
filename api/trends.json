@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T04:35:30.496541+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-09T10:41:01.794892+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 10时41分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -27,32 +27,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 10时41分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 10时41分]"
         },
         {
-          "title": "AI对老师的影响",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
+          "url": "https://www.cls.cn/detail/2306525",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            20,
-            17
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -62,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 10时41分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -71,7 +70,21 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 10时41分]"
+        },
+        {
+          "title": "AI对老师的影响",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -89,13 +102,35 @@
           "time_info": "[00时37分 ~ 04时35分]"
         },
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "AI“龙虾”爆火 湾区上门一次收4万",
+          "url": "https://www.toutiao.com/trending/7615047606216953407/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
           "url": "https://flash.jin10.com/detail/20260309033901550800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },

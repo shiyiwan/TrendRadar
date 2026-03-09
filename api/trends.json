@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-09T13:23:11.161569+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-03-09T16:55:12.834099+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "深圳龙岗拟首发“AI龙虾十条”",
+          "url": "https://wallstreetcn.com/articles/3766977",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 16时55分]"
+        },
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
           "url": "https://www.cls.cn/detail/2306367",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 10时41分]"
-        },
-        {
-          "title": "深圳龙岗拟首发“AI龙虾十条”",
-          "url": "https://wallstreetcn.com/articles/3766977",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -67,6 +68,19 @@
           "time_info": "[10时40分 ~ 13时23分]"
         },
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 16时55分]"
+        },
+        {
           "title": "董明珠：我都不怕被AI替代年轻人怕啥",
           "url": "https://www.toutiao.com/trending/7613971451850555434/",
           "source": "今日头条",
@@ -76,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -104,16 +129,39 @@
           "time_info": "[00时37分 ~ 04时35分]"
         },
         {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时23分]"
+          "time_info": "[13时22分 ~ 16时55分]"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时55分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时55分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -138,28 +186,6 @@
           "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
           "title": "AI“龙虾”爆火 湾区上门一次收4万",
           "url": "https://www.toutiao.com/trending/7615047606216953407/",
           "source": "今日头条",
@@ -169,17 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -199,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -210,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:16:06.217094+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-03-11T16:53:31.040608+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             7,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 13时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 16时53分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -27,11 +28,12 @@
           "ranks": [
             11,
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 13时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 16时53分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -78,6 +80,18 @@
           "time_info": "01时02分"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时53分]"
+        },
+        {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
           "url": "https://wallstreetcn.com/articles/3767089",
           "source": "华尔街见闻",
@@ -89,6 +103,51 @@
           "time_info": "[01时01分 ~ 04时42分]"
         },
         {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时53分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -98,28 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 04时42分]"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -161,7 +198,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -183,7 +220,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -205,7 +242,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -227,7 +264,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }

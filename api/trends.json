@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T00:39:53.263425+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-15T04:37:06.077557+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -26,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
-          "url": "https://flash.jin10.com/detail/20260315000241891800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -48,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -57,6 +47,17 @@
           "source": "贴吧",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 04时37分]"
+        },
+        {
+          "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
+          "url": "https://flash.jin10.com/detail/20260315000241891800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,

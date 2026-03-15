@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T16:46:36.132130+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-03-15T21:06:30.942293+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -20,6 +20,21 @@
           "time_info": "[00时39分 ~ 16时46分]"
         },
         {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 21时06分]"
+        },
+        {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
           "source": "澎湃新闻",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 10时54分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 16时46分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -91,6 +92,17 @@
           "time_info": "[00时39分 ~ 04时37分]"
         },
         {
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "xAI核心团队跑光 马斯克致歉",
           "url": "https://www.toutiao.com/trending/7617270651551747634/",
           "source": "今日头条",
@@ -100,6 +112,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "六指内塔尼亚胡是AI替身？真相来了",
+          "url": "https://www.toutiao.com/trending/7617060842857267209/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",

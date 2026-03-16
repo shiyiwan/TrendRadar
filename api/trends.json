@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T13:52:38.781642+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-16T17:05:55.649644+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 17时05分]"
         },
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -39,11 +39,25 @@
           "ranks": [
             3,
             19,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 17时05分]"
+        },
+        {
+          "title": "实测AI推荐如何被操控",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 17时05分]"
         },
         {
           "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
@@ -51,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 17时05分]"
         },
         {
           "title": "花几百万给 AI「投毒」霸榜，算不算不正当竞争？告 GEO 服务商，还是告 AI 平台？证据怎么留？",
@@ -81,19 +96,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 10时54分]"
-        },
-        {
-          "title": "实测AI推荐如何被操控",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 13时52分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -234,13 +236,35 @@
           "time_info": "[13时51分 ~ 13时52分]"
         },
         {
+          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
+          "url": "https://www.cls.cn/detail/2313854",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "据网信上海消息，截至3月16日，上海市新增1款已完成备案的生成式人工智能服务，累计已完成150款生成式人工智能服务备案。",
+          "url": "https://wallstreetcn.com/livenews/3070772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
           "url": "https://wallstreetcn.com/livenews/3070595",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -251,7 +275,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -262,7 +286,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },

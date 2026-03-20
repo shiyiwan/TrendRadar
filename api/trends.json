@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T00:54:08.620411+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-21T04:41:02.565253+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -37,30 +37,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
           "title": "未来十年AI拼的是什么",
           "url": "https://www.douyin.com/hot/2436316",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -70,19 +84,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "time_info": "[04时40分 ~ 04时41分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -102,7 +116,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
         }

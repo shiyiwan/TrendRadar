@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-21T04:41:02.565253+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-03-21T10:30:59.597010+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 10时30分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -34,11 +35,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 10时30分]"
+        },
+        {
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
+          "ranks": [
+            20,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 10时30分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -46,11 +60,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 10时30分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -58,11 +73,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 10时30分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -70,22 +86,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时41分]"
-        },
-        {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 10时30分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -99,6 +105,17 @@
           "time_info": "[04时40分 ~ 04时41分]"
         },
         {
+          "title": "沦为AI素材杨紫尊严何在",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A6%E4%B8%BAAI%E7%B4%A0%E6%9D%90%E6%9D%A8%E7%B4%AB%E5%B0%8A%E4%B8%A5%E4%BD%95%E5%9C%A8%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
@@ -108,6 +125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "AI时代教育将被如何改写",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%99%E8%82%B2%E5%B0%86%E8%A2%AB%E5%A6%82%E4%BD%95%E6%94%B9%E5%86%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",

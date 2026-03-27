@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T13:46:31.193370+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-03-27T17:03:08.460558+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -17,6 +17,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 04时42分]"
+        },
+        {
+          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
+          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 17时03分]"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 17时03分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 17时03分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -54,18 +91,6 @@
           "time_info": "[10时51分 ~ 13时46分]"
         },
         {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时46分]"
-        },
-        {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
@@ -90,15 +115,26 @@
           "time_info": "[10时51分 ~ 13时46分]"
         },
         {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -112,15 +148,15 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "郝蕾：AI会替代90%的演员",
@@ -162,7 +198,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },

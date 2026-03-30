@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T14:03:09.215495+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-03-30T17:21:31.389672+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -14,11 +14,26 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 14时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 17时21分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 17时21分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -43,29 +58,17 @@
           "time_info": "[00时42分 ~ 14时03分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 14时03分]"
-        },
-        {
           "title": "DeepSeek宕机12小时后恢复服务",
           "url": "https://www.toutiao.com/trending/7622849000173178419/",
           "source": "今日头条",
           "ranks": [
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 14时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 17时21分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -92,6 +95,30 @@
           "time_info": "[00时42分 ~ 04时41分]"
         },
         {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时21分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时21分]"
+        },
+        {
           "title": "DeepSeek已恢复服务",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%9C%8D%E5%8A%A1",
           "source": "百度热搜",
@@ -104,17 +131,6 @@
           "time_info": "[10时57分 ~ 14时03分]"
         },
         {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
-        },
-        {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
           "url": "https://www.zhihu.com/question/2021724542909903612",
           "source": "知乎",
@@ -124,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 10时58分]"
-        },
-        {
-          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
-          "url": "https://www.zhihu.com/question/2021724542909903612",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -193,6 +198,17 @@
           "time_info": "[10时57分 ~ 10时58分]"
         },
         {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "DeepSeek服务恢复正常 此前崩溃约12小时",
           "url": "https://wallstreetcn.com/livenews/3078918",
           "source": "华尔街见闻-快讯",
@@ -210,7 +226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },

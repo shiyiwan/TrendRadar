@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-03-31T01:04:00.678768+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-31T04:54:45.851328+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
+          "url": "https://flash.jin10.com/detail/20260331042636136800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时54分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时54分]"
+        },
         {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
@@ -19,26 +54,26 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek崩溃10多小时为何是“好事”",
+          "url": "https://www.toutiao.com/trending/7622965821714730505/",
+          "source": "今日头条",
           "ranks": [
-            17
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "AI 会让年轻人的机会变多还是变少？",
+          "url": "https://www.zhihu.com/question/2016930184062789503",
+          "source": "知乎",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T01:04:02.087891+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-02T04:54:20.607711+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时54分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -26,19 +26,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时54分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
           "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时54分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -48,8 +49,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时54分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -58,7 +59,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -69,9 +70,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
+          "url": "https://flash.jin10.com/detail/20260402031852137800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }

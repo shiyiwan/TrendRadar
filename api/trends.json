@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:15:35.011422+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-04-01T21:49:23.445565+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -15,11 +15,12 @@
             14,
             16,
             18,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 21时49分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -107,6 +108,17 @@
           "time_info": "[11时21分 ~ 14时01分]"
         },
         {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
           "title": "苹果客服回应撤回国行AI",
           "url": "https://www.douyin.com/hot/2449610",
           "source": "抖音",
@@ -151,6 +163,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "美联储穆萨莱姆：目前尚难在宏观层面观察到人工智能带来的生产率提升。",
+          "url": "https://flash.jin10.com/detail/20260401213620357800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
           "url": "https://flash.jin10.com/detail/20260401041014408800",
           "source": "金十数据",
@@ -179,7 +202,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -206,13 +229,24 @@
           "time_info": "11时21分"
         },
         {
+          "title": "美国圣路易斯联储主席Musalem：我决心将通货膨胀率降至 2%。 预计未来两个季度关税影响将逐渐减弱。 降低通胀有利于经济增长。 长期通胀预期仍然看起来得到锚定。 尚未看到石油冲击将如何在经济中传导。 部分潜在的通胀压力无法用关税来解释。 目前尚无法在宏观层面看到人工智能带来的生产力提升。",
+          "url": "https://wallstreetcn.com/livenews/3080943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3080767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -228,15 +262,37 @@
           "time_info": "04时52分"
         },
         {
+          "title": "美联储理事Barr：目前人工智能还不太可能提高美国的生产效率。 人工智能对劳动力市场的影响迄今相对较小。",
+          "url": "https://wallstreetcn.com/livenews/3080941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
           "url": "https://wallstreetcn.com/livenews/3080764",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "美国圣路易斯联储主席Musalem：维持利率不变可能在相当长一段时间内是合适的。 劳动力市场与通胀双方风险均有所上升。 若核心通胀或通胀预期上升，可能支持加息。 私募信贷压力并非广泛的信贷质量问题。 若劳动力市场走弱，可能支持降息。 目前通胀在2026年全年持续高企的风险加大。 裁员激增可能导致失业率快速上升。 人工智能可能提升供给，但目前也在拉动需求。",
+          "url": "https://wallstreetcn.com/livenews/3080936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
@@ -245,7 +301,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T17:03:24.081140+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-04-03T21:17:07.727019+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -15,11 +15,12 @@
             10,
             14,
             11,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 17时03分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 21时17分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -51,7 +52,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -62,7 +63,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -91,6 +92,17 @@
           "time_info": "[17时02分 ~ 17时03分]"
         },
         {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
+        },
+        {
           "title": "AI用得越深 Token花费越高，这让不少普通用户和中小企业倍感压力",
           "url": "https://flash.jin10.com/detail/20260403102938251800",
           "source": "金十数据",
@@ -108,7 +120,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -119,7 +131,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -141,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },

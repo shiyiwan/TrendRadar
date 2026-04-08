@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T01:13:20.373725+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-09T04:53:48.563676+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时53分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时53分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -37,8 +37,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时53分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -48,8 +48,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时53分]"
+        },
+        {
+          "title": "万斯称十点提案有多个版本 有些像是AI写的",
+          "url": "https://flash.jin10.com/detail/20260409042844092800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
@@ -58,7 +69,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }

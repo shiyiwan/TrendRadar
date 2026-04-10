@@ -1,400 +1,55 @@
 {
-  "generated_at": "2026-04-10T21:24:30.080034+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-04-11T00:57:46.930656+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 34,
+      "match_count": 4,
       "titles": [
         {
-          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时59分]"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            16,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 14时02分]"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            22,
-            21,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 14时02分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 21时24分]"
-        },
-        {
-          "title": "OpenAI声称其算力比Anthropic更有优势",
-          "url": "https://flash.jin10.com/detail/20260410043705456800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "00时57分"
         },
         {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
           "ranks": [
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 21时24分]"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            25,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 11时38分]"
-        },
-        {
-          "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
-          "url": "https://wallstreetcn.com/livenews/3085326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 14时02分]"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 21时24分]"
-        },
-        {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时59分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时59分]"
-        },
-        {
-          "title": "微信回应夫妻用AI写公众号年赚200万",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.toutiao.com/trending/7626947174772772393/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "王自如聊中美AI模型上新",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
-        },
-        {
-          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
-          "url": "https://www.cls.cn/detail/2338824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 04时59分]"
-        },
-        {
-          "title": "【报道：梁文锋内部发声，DeepSeek V4将于4月下旬发布】据多位知情人士向媒体透露，DeepSeek创始人梁文锋近日在内部沟通中透露，DeepSeek新一代旗舰大模型DeepSeek V4将于4月下旬正式发布。（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3085537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "最高涨价463% 你的AI员工变贵了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
-          "url": "https://www.cls.cn/detail/2340102",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
-          "url": "https://flash.jin10.com/detail/20260410041947855800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "摩根士丹利：宁德时代收购中恒电气股权扩大AI供电能力 评级与大市同步",
-          "url": "https://flash.jin10.com/detail/20260410111540905800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025880248273618520",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "亚马逊考虑向其他公司出售其AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3085230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "小鹏GX联合福耀玻璃打造并量产交付首块AI调光隐私玻璃",
-          "url": "https://wallstreetcn.com/livenews/3085599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
-          "url": "https://www.zhihu.com/question/2025517870495392629",
-          "source": "知乎",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "00时57分"
         },
         {
-          "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
-          "url": "https://wallstreetcn.com/livenews/3085594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "A股欧菲光盘中异动拉升，现涨超5%；消息面上，华为即将发布的AI眼镜摄像头模组由欧菲光独供。",
-          "url": "https://flash.jin10.com/detail/20260410110143411800",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260410233017921800",
           "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
-          "url": "https://flash.jin10.com/detail/20260410004158650800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3085301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
-          "url": "https://flash.jin10.com/detail/20260410035916165800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://wallstreetcn.com/livenews/3085491",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "分类施策全覆盖！教育部等5部门部署“人工智能+教育”行动计划",
-          "url": "https://wallstreetcn.com/livenews/3085488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "00时57分"
         }
       ]
     }

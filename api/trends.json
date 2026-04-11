@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T16:54:22.467186+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-04-11T21:12:14.181690+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -30,6 +30,31 @@
           "time_info": "[00时57分 ~ 04时56分]"
         },
         {
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            9,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 21时12分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
+        },
+        {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
           "url": "https://flash.jin10.com/detail/20260411041419863800",
           "source": "金十数据",
@@ -41,17 +66,16 @@
           "time_info": "04时56分"
         },
         {
-          "title": "人工智能卖瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
-          "source": "bilibili 热搜",
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
           "ranks": [
-            29,
-            9,
-            23
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时12分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -78,6 +102,18 @@
           "time_info": "[10时45分 ~ 13时28分]"
         },
         {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时12分]"
+        },
+        {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
@@ -87,17 +123,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 04时56分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
@@ -110,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 13时28分]"
+        },
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
         },
         {
           "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
@@ -136,15 +172,15 @@
           "time_info": "[10时45分 ~ 13时28分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
+          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "time_info": "[21时11分 ~ 21时12分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
@@ -186,7 +222,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -208,7 +244,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -219,7 +255,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },

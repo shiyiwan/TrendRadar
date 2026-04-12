@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-12T13:59:01.722732+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-04-12T16:58:13.489623+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 16时58分]"
+        },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
           "url": "https://wallstreetcn.com/articles/3769738",
@@ -21,29 +34,31 @@
           "time_info": "[00时44分 ~ 11时23分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 13时59分]"
-        },
-        {
           "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2025695905764962890",
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 16时58分]"
+        },
+        {
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            27,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 16时58分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -53,19 +68,6 @@
             9,
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 11时23分]"
-        },
-        {
-          "title": "人工智能卖瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            27,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -83,6 +85,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 11时23分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
@@ -114,7 +127,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },

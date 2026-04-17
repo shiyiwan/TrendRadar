@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T17:25:46.704677+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-04-17T21:44:23.955817+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,11 +15,12 @@
             4,
             8,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 21时44分]"
         },
         {
           "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
@@ -45,6 +46,17 @@
           "time_info": "[11时21分 ~ 14时09分]"
         },
         {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
           "url": "https://flash.jin10.com/detail/20260417005843333800",
           "source": "金十数据",
@@ -67,13 +79,26 @@
           "time_info": "11时21分"
         },
         {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 21时44分]"
+        },
+        {
           "title": "英国央行副行长Sarah Breeden：与人工智能相关的美国科技股看起来尤其高估。",
           "url": "https://wallstreetcn.com/livenews/3089954",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -185,19 +210,6 @@
           "time_info": "[01时21分 ~ 04时58分]"
         },
         {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 17时25分]"
-        },
-        {
           "title": "苏林试戴人工智能眼镜",
           "url": "https://www.toutiao.com/trending/7629525766065864714/",
           "source": "今日头条",
@@ -257,6 +269,39 @@
           "time_info": "[11时21分 ~ 14时09分]"
         },
         {
+          "title": "百万级AI汽车平台归元S面世",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%BA%A7AI%E6%B1%BD%E8%BD%A6%E5%B9%B3%E5%8F%B0%E5%BD%92%E5%85%83S%E9%9D%A2%E4%B8%96%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
+          "title": "DeepSeek研究员入职字节，李亮：没招聘近亿元年薪技术员工，但不排除四年后收益数亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
+          "title": "人类第一张在太空中AI生成的图片曝光",
+          "url": "https://www.toutiao.com/trending/7629334130569297970/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
           "url": "https://wallstreetcn.com/livenews/3089493",
           "source": "华尔街见闻-快讯",
@@ -285,7 +330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -318,7 +363,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },

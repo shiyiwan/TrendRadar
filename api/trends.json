@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-22T11:21:16.460702+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-04-22T14:05:01.966999+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时05分]"
+        },
         {
           "title": "灵魂摆渡电影全AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
@@ -44,26 +55,16 @@
           "time_info": "[01时11分 ~ 05时01分]"
         },
         {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
-        },
-        {
           "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
           "url": "https://www.zhihu.com/question/2029861890638045761",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时05分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -90,6 +91,42 @@
           "time_info": "[01时11分 ~ 05时01分]"
         },
         {
+          "title": "《灵魂摆渡》电影全AI生成",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时05分]"
+        },
+        {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时05分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时05分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
@@ -99,6 +136,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 05时01分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         },
         {
           "title": "AI艺人库言论为何惹争议",
@@ -112,37 +160,15 @@
           "time_info": "[11时20分 ~ 11时21分]"
         },
         {
-          "title": "《灵魂摆渡》电影全AI生成",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
-        },
-        {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "title": "爱奇艺回应 AI 授权，称真人完成关键表演后将其数字化，未来减少对「顶流」的依赖，对影视行业是好事吗？",
+          "url": "https://www.zhihu.com/question/2029620355082335491",
           "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
+          "time_info": "[14时04分 ~ 14时05分]"
         },
         {
           "title": "库克卸任：4万亿市值与AI失落的十年",
@@ -195,7 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -228,7 +254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },

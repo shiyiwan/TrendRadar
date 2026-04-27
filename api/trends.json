@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-04-27T11:37:51.467945+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-04-27T14:34:19.925858+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "一条视频看懂DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2479851",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 14时34分]"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 14时34分]"
+        },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
           "url": "https://wallstreetcn.com/articles/3770911",
@@ -20,17 +46,15 @@
           "time_info": "[00时53分 ~ 11时37分]"
         },
         {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
           "ranks": [
-            2,
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时34分]"
         },
         {
           "title": "龙虾官宣接入DeepSeekV4",
@@ -42,6 +66,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 04时48分]"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时34分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -56,27 +103,17 @@
           "time_info": "[00时54分 ~ 04时48分]"
         },
         {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
           "ranks": [
+            9,
             10,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 11时37分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 14时34分]"
         },
         {
           "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
@@ -85,7 +122,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -102,28 +139,15 @@
           "time_info": "[00时53分 ~ 04时48分]"
         },
         {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
+          "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
+          "url": "https://wallstreetcn.com/livenews/3094754",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 11时37分]"
+          "time_info": "14时34分"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -136,6 +160,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 04时48分]"
+        },
+        {
+          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
+          "url": "https://wallstreetcn.com/articles/3770917",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时34分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -197,6 +232,17 @@
           "time_info": "[00时53分 ~ 04时48分]"
         },
         {
+          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
+          "url": "https://www.cls.cn/detail/2356166",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://www.toutiao.com/trending/7632564309457141806/",
           "source": "今日头条",
@@ -208,24 +254,24 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
+          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
           "title": "DeepSeek调整API计费",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
-          "url": "https://wallstreetcn.com/articles/3770917",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -236,7 +282,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -247,9 +293,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
+          "url": "https://wallstreetcn.com/livenews/3094744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
@@ -258,7 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -269,7 +326,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -291,7 +348,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },

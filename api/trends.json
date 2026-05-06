@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-06T14:36:19.192035+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-05-06T18:25:23.722760+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 26,
       "titles": [
+        {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 18时25分]"
+        },
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
           "url": "https://wallstreetcn.com/articles/3771568",
@@ -19,15 +30,41 @@
           "time_info": "[01时58分 ~ 05时10分]"
         },
         {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
           "ranks": [
-            3
+            12,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 18时25分]"
+        },
+        {
+          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 18时25分]"
+        },
+        {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 18时25分]"
         },
         {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
@@ -47,7 +84,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -94,30 +131,6 @@
           "ranks": [
             13,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时36分]"
-        },
-        {
-          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时36分]"
-        },
-        {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -193,17 +206,6 @@
           "time_info": "[05时09分 ~ 05时10分]"
         },
         {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
-        },
-        {
           "title": "苹果公司将允许用户选用多款第三方人工智能服务，为旗下全系软件功能提供智能支持。 据知情人士透露，用户未来可选择多款第三方AI模型，完成文字创作编辑、图像生成修改等任务。 这项功能变更定于今年秋季随iOS 27、iPadOS 27以及macOS 27正式上线，用户可通过设置应用，自主挑选想要为苹果智能功能提供服务的AI平台。",
           "url": "https://wallstreetcn.com/livenews/3098878",
           "source": "华尔街见闻-快讯",
@@ -221,7 +223,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },

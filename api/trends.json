@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T05:17:14.044231+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-05-07T11:41:15.468724+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -42,6 +42,18 @@
           "time_info": "[01时46分 ~ 05时17分]"
         },
         {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 11时41分]"
+        },
+        {
           "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
           "url": "https://flash.jin10.com/detail/20260507011748861800",
           "source": "金十数据",
@@ -51,6 +63,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 11时41分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
@@ -70,9 +94,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "苏姿丰谈调整CPU市场规模预测原因：AI发展推动CPU需求激增",
+          "url": "https://flash.jin10.com/detail/20260507111821118800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
@@ -81,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -92,7 +127,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -145,37 +180,82 @@
           "time_info": "[01时46分 ~ 05时17分]"
         },
         {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时17分]"
-        },
-        {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时17分]"
-        },
-        {
           "title": "10后小孩哥用AI帮妈妈管店",
           "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 11时41分]"
+        },
+        {
+          "title": "黄仁勋：美国应保持AI领先地位",
+          "url": "https://www.douyin.com/hot/2489930",
+          "source": "抖音",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时17分]"
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "xAI将作为SpaceX的AI产品线存在",
+          "url": "https://www.toutiao.com/trending/7636936186631556618/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "不差钱到主动融资DeepSeek经历了什么",
+          "url": "https://www.toutiao.com/trending/7636782169930599974/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -195,7 +275,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -206,7 +286,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -217,9 +297,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "韩国股市超越加拿大，跃升全球第七！AI芯片热潮助推市值飙升71%",
+          "url": "https://flash.jin10.com/detail/20260507105148749800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -228,7 +319,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }

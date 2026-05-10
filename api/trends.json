@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T17:43:35.921952+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-05-10T21:41:54.217162+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2367077",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 17时43分]"
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 21时41分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -43,19 +44,6 @@
           "time_info": "[01时02分 ~ 17时43分]"
         },
         {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 17时43分]"
-        },
-        {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
@@ -63,7 +51,36 @@
             9,
             6,
             3,
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 21时41分]"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            15,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 21时41分]"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -96,20 +113,6 @@
           "time_info": "[01时02分 ~ 17时43分]"
         },
         {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 17时43分]"
-        },
-        {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
           "source": "澎湃新闻",
@@ -119,6 +122,33 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 04时53分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 21时41分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 21时41分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -133,18 +163,6 @@
           "time_info": "[04时53分 ~ 14时38分]"
         },
         {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时43分]"
-        },
-        {
           "title": "上海科创基金总裁杨斌：人工智能带来的不仅是技术层面的迭代 而是生产要素的革命性重构",
           "url": "https://flash.jin10.com/detail/20260510114605762800",
           "source": "金十数据",
@@ -154,19 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 17时43分]"
         },
         {
           "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
@@ -241,6 +246,18 @@
           "time_info": "[14时38分 ~ 17时43分]"
         },
         {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 21时41分]"
+        },
+        {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
           "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
@@ -286,15 +303,16 @@
           "time_info": "[01时02分 ~ 04时53分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
+          "time_info": "[17时43分 ~ 21时41分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -355,15 +373,15 @@
           "time_info": "[11时49分 ~ 11时50分]"
         },
         {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "21时41分"
         },
         {
           "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
@@ -386,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     }

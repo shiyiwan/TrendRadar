@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T01:03:04.776048+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-11T04:56:49.215872+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -15,19 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -37,19 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -59,19 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -81,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -92,30 +83,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "GAI新歌太费口红",
           "url": "https://www.douyin.com/hot/2494398",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -123,6 +116,17 @@
           "source": "贴吧",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -140,13 +144,24 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
+          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
+          "url": "https://flash.jin10.com/detail/20260511030929783800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
           "url": "https://wallstreetcn.com/livenews/3101113",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }

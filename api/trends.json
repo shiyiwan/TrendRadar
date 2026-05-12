@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-12T18:39:02.678874+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-05-12T22:46:28.332065+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 22时46分]"
+        },
         {
           "title": "把AI用到了最有意义的场合",
           "url": "https://www.douyin.com/hot/2495756",
@@ -21,18 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时59分 ~ 18时39分]"
-        },
-        {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 18时39分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -60,8 +60,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时59分 ~ 18时39分]"
+          "appearance_count": 12,
+          "time_info": "[01时59分 ~ 22时46分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -71,11 +71,37 @@
             24,
             26,
             18,
-            22
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 22时46分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时59分 ~ 18时39分]"
+          "time_info": "[11时43分 ~ 22时46分]"
+        },
+        {
+          "title": "AI巨头面临严峻的“芯片通货膨胀”",
+          "url": "https://www.toutiao.com/trending/7638919710259547689/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -99,19 +125,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时41分 ~ 18时39分]"
-        },
-        {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 18时39分]"
         },
         {
           "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",

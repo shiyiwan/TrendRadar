@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T14:42:26.005728+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-05-12T18:39:02.678874+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             5,
             8,
             2,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 14时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 18时39分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 18时39分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -40,11 +42,12 @@
             19,
             22,
             18,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 14时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 18时39分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -57,8 +60,22 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 18时39分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26,
+            18,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时59分 ~ 14时42分]"
+          "time_info": "[01时59分 ~ 18时39分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -72,17 +89,29 @@
           "time_info": "[01时59分 ~ 02时01分]"
         },
         {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
           "ranks": [
-            24,
-            26,
-            18
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 18时39分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时59分 ~ 14时42分]"
+          "time_info": "[11时43分 ~ 18时39分]"
         },
         {
           "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
@@ -118,38 +147,16 @@
           "time_info": "02时01分"
         },
         {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时42分]"
-        },
-        {
           "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
           "url": "https://www.cls.cn/detail/2368705",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 18时39分]"
         },
         {
           "title": "Deepseek分析145斤怎么瘦到100斤",

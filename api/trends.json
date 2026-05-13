@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T11:54:09.338060+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-05-13T14:53:01.978217+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -25,11 +25,57 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 14时53分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2036544679387341657",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时13分 ~ 11时54分]"
+          "time_info": "[11时53分 ~ 14时53分]"
+        },
+        {
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时53分]"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时53分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -42,17 +88,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时13分 ~ 11时54分]"
-        },
-        {
-          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2036544679387341657",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -71,28 +106,6 @@
           "source": "百度热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -144,6 +157,17 @@
           "time_info": "[02时13分 ~ 05时25分]"
         },
         {
+          "title": "软银集团：4月提取了总额200亿美元的借款，主要用于对OpenAI的投资，其中25亿美元于当月偿还。",
+          "url": "https://flash.jin10.com/detail/20260513144011906800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
@@ -153,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "软银集团表示，截至3月底，对OpenAI投资累积的账面收益为450亿美元。",
+          "url": "https://flash.jin10.com/detail/20260513143943224800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "全国首例AI代写“种草笔记”案宣判",
@@ -172,7 +207,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }

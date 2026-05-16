@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T11:39:04.773663+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-05-16T14:28:13.139599+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时28分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 14时28分]"
         },
         {
           "title": "【美联储：鲍威尔将担任临时主席，直至凯文·沃什宣誓就职】美联储理事会周五在一份声明中表示，已任命杰罗姆·鲍威尔担任临时主席（chair pro tempore），直至其继任者凯文·沃什（Kevin Warsh）正式宣誓就职。 鲍威尔的主席任期于本周五届满。 美联储表示：“任命现任主席担任临时主席的这一临时举措，与以往历届主席更替期间的惯例保持一致。”",
@@ -41,18 +54,6 @@
           "time_info": "05时11分"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 11时39分]"
-        },
-        {
           "title": "Deepseek不语 只是一味跟团",
           "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 05时11分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
         },
         {
           "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
@@ -127,7 +139,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T11:57:56.976221+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-05-17T14:50:48.495137+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 14时50分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -31,28 +31,30 @@
           "time_info": "[01时04分 ~ 04时57分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 11时57分]"
-        },
-        {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
           "url": "https://wallstreetcn.com/articles/3772419",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 14时50分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 14时50分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -60,11 +62,24 @@
           "source": "贴吧",
           "ranks": [
             20,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 14时50分]"
+        },
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时50分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -90,6 +105,42 @@
           "time_info": "[01时04分 ~ 04时57分]"
         },
         {
+          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
+          "url": "https://wallstreetcn.com/articles/3772426",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时50分]"
+        },
+        {
+          "title": "境外间谍对我稀土AI等领域实施窃密",
+          "url": "https://www.toutiao.com/trending/7639950755486633515/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时50分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时50分]"
+        },
+        {
           "title": "美军AIM-260空空导弹首次亮相",
           "url": "https://www.toutiao.com/trending/7640465871453818418/",
           "source": "今日头条",
@@ -113,50 +164,6 @@
           "time_info": "[01时05分 ~ 04时57分]"
         },
         {
-          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
-          "url": "https://wallstreetcn.com/articles/3772426",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "境外间谍对我稀土AI等领域实施窃密",
-          "url": "https://www.toutiao.com/trending/7639950755486633515/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
           "url": "https://flash.jin10.com/detail/20260516225206555800",
           "source": "金十数据",
@@ -174,7 +181,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }

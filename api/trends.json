@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-21T12:13:35.761776+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-05-21T19:32:42.250973+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
         {
           "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
           "url": "https://wallstreetcn.com/livenews/3106952",
@@ -25,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -41,6 +52,51 @@
           "time_info": "06时02分"
         },
         {
+          "title": "高盛称对冲基金对大涨的芯片股获利了结 同时维持AI主题整体敞口",
+          "url": "https://wallstreetcn.com/livenews/3107399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 19时32分]"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "颠覆AI公司“烧钱”逻辑 Anthropic预计二季度营收将爆炸性增长",
           "url": "https://flash.jin10.com/detail/20260521052959976800",
           "source": "金十数据",
@@ -50,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -76,6 +143,18 @@
           "time_info": "[02时23分 ~ 06时02分]"
         },
         {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 19时32分]"
+        },
+        {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
           "url": "https://www.zhihu.com/question/2040264998916712429",
           "source": "知乎",
@@ -85,17 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 06时02分]"
-        },
-        {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
@@ -120,17 +188,6 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
           "title": "夏奇拉daidai舞蹈挑战",
           "url": "https://www.douyin.com/hot/2506133",
           "source": "抖音",
@@ -142,13 +199,57 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "逆转裁判但网文AI对决",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E4%BD%86%E7%BD%91%E6%96%87AI%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
           "url": "https://wallstreetcn.com/livenews/3107123",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -181,7 +282,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -219,6 +320,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "多重利好助推下 黄仁勋描绘的“实体AI”愿景引爆亚洲科技股",
+          "url": "https://wallstreetcn.com/livenews/3107368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
           "url": "https://wallstreetcn.com/livenews/3106925",
           "source": "华尔街见闻-快讯",
@@ -241,13 +353,24 @@
           "time_info": "06时02分"
         },
         {
+          "title": "这波AI短片的梦幻联动给到夯",
+          "url": "https://www.douyin.com/hot/2507151",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "高盛：百度AI云业务持续强劲 料AI业务年底占比过半",
           "url": "https://flash.jin10.com/detail/20260521111134104800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }

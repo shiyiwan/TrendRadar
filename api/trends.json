@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-05-24T18:02:31.686630+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-05-24T21:48:05.992027+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 21时48分]"
+        },
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 21时48分]"
+        },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
@@ -20,31 +46,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 18时02分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 18时02分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 18时02分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -72,6 +73,18 @@
           "time_info": "[12时06分 ~ 18时02分]"
         },
         {
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 21时48分]"
+        },
+        {
           "title": "DeepSeek宣布：永久降价",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
           "source": "百度热搜",
@@ -82,6 +95,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 12时07分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 21时48分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -96,16 +122,27 @@
           "time_info": "[01时07分 ~ 05时01分]"
         },
         {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
           "ranks": [
             8,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时06分 ~ 18时02分]"
+          "time_info": "[18时01分 ~ 21时48分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 21时48分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -119,15 +156,15 @@
           "time_info": "[01时07分 ~ 05时01分]"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -141,17 +178,6 @@
           "time_info": "[12时06分 ~ 12时07分]"
         },
         {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
           "url": "https://wallstreetcn.com/livenews/3108395",
           "source": "华尔街见闻-快讯",
@@ -162,17 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 05时01分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
@@ -247,9 +262,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "印度外交部长：与美国国务卿鲁比奥审议了关键矿产、人工智能和核能等议题。",
+          "url": "https://flash.jin10.com/detail/20260524195331510800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "芬兰大学：新型AI聊天机器人有助抵抗错误健康信息",
@@ -261,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
+          "url": "https://wallstreetcn.com/livenews/3108500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",

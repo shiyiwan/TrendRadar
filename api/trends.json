@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-05-25T05:04:15.842019+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-25T12:18:59.312412+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 12时18分]"
+        },
+        {
+          "title": "什么情况下，本轮AI大行情会结束？",
+          "url": "https://wallstreetcn.com/articles/3773004",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 12时18分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -30,16 +44,16 @@
           "time_info": "[01时10分 ~ 05时04分]"
         },
         {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 12时18分]"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
@@ -64,37 +78,61 @@
           "time_info": "01时10分"
         },
         {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时04分]"
-        },
-        {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 12时18分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 12时18分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-25）",
+          "url": "https://flash.jin10.com/detail/20260525114351597800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -103,9 +141,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "AI挑战水果店员挑榴莲",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%8C%91%E6%88%98%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%91%98%E6%8C%91%E6%A6%B4%E8%8E%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",

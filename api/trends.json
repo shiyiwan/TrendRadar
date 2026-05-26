@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T02:33:52.015085+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-27T05:51:01.679815+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 05时51分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 05时51分]"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            29,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 05时51分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -37,30 +49,42 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 05时51分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
           "url": "https://www.zhihu.com/question/2042336304244019752",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 05时51分]"
         },
         {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 05时51分]"
+        },
+        {
+          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
+          "url": "https://www.zhihu.com/question/12005197517",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 05时51分]"
         }
       ]
     }

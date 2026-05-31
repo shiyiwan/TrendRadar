@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T05:06:29.692010+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-31T12:20:28.812000+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 12时20分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -31,6 +31,19 @@
           "time_info": "[01时15分 ~ 05时06分]"
         },
         {
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 12时20分]"
+        },
+        {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
           "url": "https://wallstreetcn.com/livenews/3111833",
           "source": "华尔街见闻-快讯",
@@ -43,27 +56,39 @@
           "time_info": "[01时16分 ~ 05时06分]"
         },
         {
+          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 12时20分]"
+        },
+        {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
           "url": "https://wallstreetcn.com/livenews/3111836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
-          "url": "https://wallstreetcn.com/articles/3773496",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时06分]"
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 12时20分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -72,17 +97,6 @@
           "ranks": [
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时06分]"
-        },
-        {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -130,7 +144,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -152,7 +166,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T05:07:37.375518+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-06-01T12:49:07.263138+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 26,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 12时49分]"
         },
         {
           "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
@@ -64,6 +64,39 @@
           "time_info": "[01时14分 ~ 05时07分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：推出全新AI模型Nemotron 3 Ultra。",
+          "url": "https://wallstreetcn.com/livenews/3112168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Anthropic、OpenAI、SpaceXAI、字节跳动、Coreweave(CRWV.O)和甲骨文云基础设施均计划采用Vera芯片。",
+          "url": "https://flash.jin10.com/detail/20260601121839275800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "OpenAI、Anthropic和SpaceX成为英伟达(NVDA.O)Vera芯片的首批采用者。",
+          "url": "https://flash.jin10.com/detail/20260601121518785800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
           "url": "https://www.zhihu.com/question/2044397085965955829",
           "source": "知乎",
@@ -72,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 12时49分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -100,6 +133,39 @@
           "time_info": "[01时14分 ~ 05时07分]"
         },
         {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
+          "url": "https://www.cls.cn/detail/2386515",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "媒体：莫让AI加剧医患“沟通危机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
           "url": "https://www.zhihu.com/question/2044518201330073873",
           "source": "知乎",
@@ -111,6 +177,94 @@
           "time_info": "[05时06分 ~ 05时07分]"
         },
         {
+          "title": "OpenAI、Anthropic和SpaceX成为英伟达Vera芯片的首批采用者。",
+          "url": "https://wallstreetcn.com/livenews/3112159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：英伟达推出Vera——专为智能代理时代打造的CPU。在代理型任务完成速度上Vera比x86 CPU快80%。Vera专为驱动现代AI工厂背后所需的CPU密集型工作而设计，涵盖从代理型AI、强化学习到数据处理和任务编排等各类场景。",
+          "url": "https://flash.jin10.com/detail/20260601121156136800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达推出DSX平台，继续向AI工厂基础设施进军",
+          "url": "https://flash.jin10.com/detail/20260601120821804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达推出面向AI智能体的CPU Vera。",
+          "url": "https://wallstreetcn.com/livenews/3112155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达Vera BlueField-4 STX带来具备芯片级安全的代理型AI存储处理能力。",
+          "url": "https://wallstreetcn.com/livenews/3112154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-01）",
+          "url": "https://flash.jin10.com/detail/20260601120154124800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达(NVDA.O)推出Vera，一款专为支持基于智能代理的AI系统而打造的CPU。",
+          "url": "https://flash.jin10.com/detail/20260601120149592800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "6月1日午间收评：创业板指半日跌近1%，煤炭、AI PC概念逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3112146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
           "url": "https://flash.jin10.com/detail/20260531234826092800",
           "source": "金十数据",
@@ -120,6 +274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "英特尔计划在年底前推出一款人工智能芯片，该芯片将采用比英伟达和AMD竞品更便宜的内存和散热技术。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3112133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Vera Rubin为 AI 实验室、云服务提供商和超大规模企业打造了一个适用于智能工作负载的POD级平台，具备大规模的端到端安全性。",
+          "url": "https://flash.jin10.com/detail/20260601115028170800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     }

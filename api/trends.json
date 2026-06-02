@@ -1,304 +1,187 @@
 {
-  "generated_at": "2026-06-02T20:10:49.035938+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-06-03T03:46:52.106344+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 26,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 20时10分]"
-        },
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 20时10分]"
-        },
-        {
-          "title": "大力推进人工智能+能源融合发展",
-          "url": "https://www.douyin.com/hot/2520343",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时22分]"
-        },
-        {
-          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
-          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时22分]"
-        },
-        {
-          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
-          "url": "https://www.cls.cn/detail/2387170",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时22分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 20时10分]"
-        },
-        {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 12时28分]"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 12时28分]"
-        },
-        {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 20时10分]"
-        },
-        {
-          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
-          "url": "https://wallstreetcn.com/articles/3773569",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
-          "url": "https://www.zhihu.com/question/2044719064757397392",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时22分]"
+          "time_info": "03时46分"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2388416",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
-          "url": "https://flash.jin10.com/detail/20260602032624584800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "03时46分"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850541&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/b-1chgXiGKctV7E-9NKnI.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260602120015420800",
-          "source": "金十数据",
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "03时46分"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "欧盟人工智能数据中心计划因延误和资金问题受挫",
+          "url": "https://flash.jin10.com/detail/20260603031251891800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "英伟达(NVDA.O)将与微软(MSFT.O)合作，开发面向代理式人工智能的统一技术栈。",
+          "url": "https://flash.jin10.com/detail/20260603030745476800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "微软：微软人工智能首次推出推理大模型MAI-THINKING-1",
+          "url": "https://wallstreetcn.com/livenews/3113243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
           "url": "https://www.cls.cn/detail/2388372",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "03时46分"
         },
         {
-          "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
-          "url": "https://flash.jin10.com/detail/20260602031452989800",
+          "title": "微软推出可充当行政助理的AI软件 展示其在办公场景的最新成果",
+          "url": "https://flash.jin10.com/detail/20260603023955744800",
           "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "OpenAI：与Related Digital、甲骨文、沃尔布里奇、黑石集团合作，贡献1000万美元用于萨林娱乐中心的改善。",
-          "url": "https://flash.jin10.com/detail/20260602031357524800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-06-02）",
-          "url": "https://flash.jin10.com/detail/20260602115211298800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
-          "url": "https://wallstreetcn.com/livenews/3112620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "Altman：人们对AI感到焦虑是正确的。",
-          "url": "https://wallstreetcn.com/livenews/3112614",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "03时46分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
-          "url": "https://flash.jin10.com/detail/20260602024757153800",
+          "title": "微软发布可充当行政助理的AI软件",
+          "url": "https://wallstreetcn.com/livenews/3113231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "微软(MSFT.O)高管：将与梅奥诊所合作共同开发人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260603023241627800",
           "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "03时46分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
-          "url": "https://flash.jin10.com/detail/20260602024742744800",
-          "source": "金十数据",
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "03时46分"
         },
         {
-          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
-          "url": "https://wallstreetcn.com/livenews/3112781",
+          "title": "AI引爆2800亿美元网络安全股狂潮，财报大考迫在眉睫",
+          "url": "https://wallstreetcn.com/livenews/3113225",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "03时46分"
+        },
+        {
+          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
+          "url": "https://wallstreetcn.com/livenews/3113224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "微软首席执行官（CEO）在 Build 大会上宣布，将把 Windows AI API 拓展至更多个人电脑（PC）。 推出Surface RTX Spark Dev Box，这是一款紧凑型开发者PC。",
+          "url": "https://wallstreetcn.com/livenews/3113244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     }

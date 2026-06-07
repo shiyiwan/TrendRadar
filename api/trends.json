@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-08T01:25:22.999829+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-06-08T05:20:18.376788+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
       "match_count": 5,
       "titles": [
+        {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时20分]"
+        },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
@@ -15,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时20分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -26,30 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
-        },
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时20分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
           "url": "https://wallstreetcn.com/articles/3774027",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时20分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -59,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时20分]"
         }
       ]
     }

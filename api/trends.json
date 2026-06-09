@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T16:01:40.835227+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-06-09T19:27:47.872592+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -31,6 +31,18 @@
           "time_info": "[02时29分 ~ 05时55分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时27分]"
+        },
+        {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
           "url": "https://www.cls.cn/detail/2393646",
           "source": "财联社热门",
@@ -54,15 +66,16 @@
           "time_info": "[12时02分 ~ 16时01分]"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时02分 ~ 16时01分]"
+          "time_info": "[15时59分 ~ 19时27分]"
         },
         {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
@@ -74,17 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 02时30分]"
-        },
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "美国科技记者古尔曼：尽管这次发布并没有带来颠覆性的创新，但苹果(AAPL.O)刚刚通过实用的人工智能功能、真正能够发挥作用的Siri以及性能提升，重新构建了其各大平台的基础架构。考虑到未来三年将有一系列重磅新设备搭载这些操作系统，这一点至关重要。这是一个正确的决定。",
@@ -107,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "苹果宣布新版Siri AI因DMA监管分歧无缘欧盟iOS 27，上线时间表未定",
+          "url": "https://wallstreetcn.com/livenews/3116777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-06-09）",
@@ -148,7 +161,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -165,6 +178,19 @@
           "time_info": "[12时02分 ~ 16时01分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时27分]"
+        },
+        {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
           "url": "https://www.cls.cn/detail/2393777",
           "source": "财联社热门",
@@ -174,6 +200,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时29分 ~ 05时55分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时27分]"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时27分]"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
@@ -224,18 +274,6 @@
           "time_info": "[02时29分 ~ 05时55分]"
         },
         {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 16时01分]"
-        },
-        {
           "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
           "url": "https://www.cls.cn/detail/2394258",
           "source": "财联社热门",
@@ -248,35 +286,12 @@
           "time_info": "[12时02分 ~ 16时01分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 16时01分]"
-        },
-        {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
           "ranks": [
             8,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 16时01分]"
-        },
-        {
-          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
-          "url": "https://www.cls.cn/detail/2394424",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -344,7 +359,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -402,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI最初将不会在欧盟地区的iOS和iPadOS上提供。",
@@ -481,6 +507,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "OpenAI已提交IPO申请",
           "url": "https://flash.jin10.com/detail/20260609051454671800",
           "source": "金十数据",
@@ -542,7 +579,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         }

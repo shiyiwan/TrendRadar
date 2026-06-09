@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T12:02:51.946408+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-06-09T16:01:40.835227+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -42,6 +42,29 @@
           "time_info": "[02时29分 ~ 05时55分]"
         },
         {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
           "url": "https://www.zhihu.com/question/2047267736485631665",
           "source": "知乎",
@@ -53,15 +76,15 @@
           "time_info": "[02时29分 ~ 02时30分]"
         },
         {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "美国科技记者古尔曼：尽管这次发布并没有带来颠覆性的创新，但苹果(AAPL.O)刚刚通过实用的人工智能功能、真正能够发挥作用的Siri以及性能提升，重新构建了其各大平台的基础架构。考虑到未来三年将有一系列重磅新设备搭载这些操作系统，这一点至关重要。这是一个正确的决定。",
@@ -86,24 +109,13 @@
           "time_info": "05时55分"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-06-09）",
           "url": "https://flash.jin10.com/detail/20260609115944450800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -114,7 +126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -130,15 +142,27 @@
           "time_info": "02时30分"
         },
         {
+          "title": "超60%新数据中心选址干旱地区，美国AI扩张热潮引发“水焦虑”",
+          "url": "https://wallstreetcn.com/livenews/3116641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
         },
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
@@ -200,6 +224,76 @@
           "time_info": "[02时29分 ~ 05时55分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时01分]"
+        },
+        {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
+        },
+        {
           "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
           "url": "https://www.zhihu.com/question/2043797160312010091",
           "source": "知乎",
@@ -222,6 +316,17 @@
           "time_info": "[05时54分 ~ 05时55分]"
         },
         {
+          "title": "黄仁勋让出市场 DeepSeek买下昇腾",
+          "url": "https://www.toutiao.com/trending/7649233186517421604/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
+        },
+        {
           "title": "报告称全球60%流量来自AI和机器人",
           "url": "https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E5%85%A8%E7%90%8360%25%E6%B5%81%E9%87%8F%E6%9D%A5%E8%87%AAAI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -233,26 +338,15 @@
           "time_info": "[05时54分 ~ 05时55分]"
         },
         {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
+          "title": "美的首批接入微信AI生态，推进家电智能化控制",
+          "url": "https://wallstreetcn.com/livenews/3116639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
-          "url": "https://www.cls.cn/detail/2394258",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "16时01分"
         },
         {
           "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
@@ -264,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "OpenAI自曝已秘密提交IPO申请",
@@ -294,7 +377,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -308,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "苹果(AAPL.O)：我们将于今年晚些时候面向用户推出Siri AI及Beta测试版。",
@@ -371,7 +443,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -396,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
-        },
-        {
-          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
-          "url": "https://www.cls.cn/detail/2394424",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
@@ -470,9 +531,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "诺基亚推出首个专为AI时代打造的安全套件。",
+          "url": "https://wallstreetcn.com/livenews/3116613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         }
       ]
     }

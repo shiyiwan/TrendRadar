@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T05:52:25.602639+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-10T12:13:16.615820+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 12时13分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-10）",
+          "url": "https://flash.jin10.com/detail/20260610120346784800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
@@ -53,6 +64,18 @@
           "time_info": "[02时12分 ~ 05时52分]"
         },
         {
+          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
+          "url": "https://wallstreetcn.com/articles/3774243",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 12时13分]"
+        },
+        {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
           "url": "https://www.cls.cn/detail/2395176",
           "source": "财联社热门",
@@ -75,15 +98,48 @@
           "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
+          "title": "用AI复原孔子与苏格拉底教育之辩",
+          "url": "https://www.douyin.com/hot/2528746",
+          "source": "抖音",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时51分 ~ 05时52分]"
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "苹果发布新一代AI平台及升级版Siri",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3AI%E5%B9%B3%E5%8F%B0%E5%8F%8A%E5%8D%87%E7%BA%A7%E7%89%88Siri",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "Siri AI将如何改变苹果",
+          "url": "https://search.bilibili.com/all?keyword=Siri%20AI%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%8B%B9%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
@@ -92,7 +148,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -103,7 +159,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -114,7 +170,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -125,7 +181,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },

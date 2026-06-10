@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T19:44:06.870551+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-06-10T23:51:11.166056+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -23,11 +23,23 @@
           "url": "https://www.cls.cn/detail/2396017",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 23时51分]"
+        },
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
+          "time_info": "[23时50分 ~ 23时51分]"
         },
         {
           "title": "小米AI上岛",
@@ -56,11 +68,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 23时51分]"
+        },
+        {
+          "title": "Altman：预计OpenAI将于明年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3117610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
@@ -81,7 +105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -120,6 +144,19 @@
           "time_info": "[02时12分 ~ 05时52分]"
         },
         {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 23时51分]"
+        },
+        {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
           "url": "https://www.cls.cn/detail/2395176",
           "source": "财联社热门",
@@ -154,17 +191,6 @@
           "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
-        },
-        {
           "title": "用AI复原孔子与苏格拉底教育之辩",
           "url": "https://www.douyin.com/hot/2528746",
           "source": "抖音",
@@ -174,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
         },
         {
           "title": "苹果发布新一代AI平台及升级版Siri",
@@ -220,6 +257,17 @@
           "time_info": "[19时43分 ~ 19时44分]"
         },
         {
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
+        },
+        {
           "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
           "url": "https://flash.jin10.com/detail/20260610044447360800",
           "source": "金十数据",
@@ -237,7 +285,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -264,6 +312,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "超微电脑跌幅扩大至17%，该公司计划进行70亿美元的股权及股权关联融资交易，用于采购履行客户约390亿美元AI服务器订单。该笔融资包括50亿美元的承销发行，与20亿美元的市价增发。",
+          "url": "https://wallstreetcn.com/livenews/3117598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3117016",
           "source": "华尔街见闻-快讯",
@@ -273,6 +332,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "谷歌：将把Chrome的Gemini功能扩展至拉丁美洲、非洲、中东等地区的用户。",
+          "url": "https://flash.jin10.com/detail/20260610230604636800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "美国2026届大学毕业生强烈不满AI，微软回应称人类不会被取代",
+          "url": "https://wallstreetcn.com/livenews/3117585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "Meta：将针对欧盟的WhatsApp AI命令提出上诉。",

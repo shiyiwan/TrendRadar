@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-13T02:12:35.734014+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T05:54:15.745506+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 05时54分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 05时54分]"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -39,6 +40,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
+        },
+        {
+          "title": "用AI打开七时吉祥原著",
+          "url": "https://www.douyin.com/hot/2532352",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 05时54分]"
         },
         {
           "title": "作家自曝用AI写作",

@@ -1,227 +1,88 @@
 {
-  "generated_at": "2026-06-17T20:22:28.696406+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-06-18T02:26:56.069951+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 34,
+      "match_count": 11,
       "titles": [
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时41分 ~ 12时45分]"
-        },
-        {
-          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
-          "url": "https://www.cls.cn/detail/2401113",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 20时22分]"
-        },
-        {
-          "title": "港股午评：恒指收跌0.37% PCB概念、AI次新股连涨三日",
-          "url": "https://flash.jin10.com/detail/20260617121759371800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
-          "url": "https://wallstreetcn.com/livenews/3120472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "联想计划发行20亿美元零息可转债：资本市场重估AI与ISG增长潜力",
-          "url": "https://wallstreetcn.com/livenews/3120911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
-          "url": "https://www.zhihu.com/question/2050239948306092201",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
-          "source": "知乎",
-          "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
-          "url": "https://www.cls.cn/detail/2401117",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
-          "url": "https://www.cls.cn/detail/2401317",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
-        {
-          "title": "微信支付宝打响AI支付战",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
-          "source": "百度热搜",
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
           "url": "https://www.cls.cn/detail/2402436",
           "source": "财联社热门",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
+          "url": "https://www.zhihu.com/question/2050269478747889665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
+          "url": "https://www.zhihu.com/question/2046913494243435264",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "黄仁勋呼吁全民拥抱AI：社会需重塑规则体系 能源短缺成美国AI发展最大短板",
+          "url": "https://www.cls.cn/detail/2402612",
+          "source": "财联社热门",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
+          "title": "美联储声明新措辞与沃什对AI投资繁荣的关注相呼应",
+          "url": "https://flash.jin10.com/detail/20260618021846481800",
+          "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -231,162 +92,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
-          "title": "曝微信正测试AI支付功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%AE%E4%BF%A1%E6%AD%A3%E6%B5%8B%E8%AF%95AI%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
-          "url": "https://wallstreetcn.com/livenews/3120511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "02时26分"
         },
         {
-          "title": "美国城堡证券：宽松的金融条件、持续的供应链中断、劳动力市场的加速复苏以及人工智能投资的激增正相互叠加，持续维持着通胀压力。",
-          "url": "https://flash.jin10.com/detail/20260617030007710800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据英国金融时报：施罗德首席投资官称，AI与科技企业并非处于“泡沫状态”。",
-          "url": "https://flash.jin10.com/detail/20260617121136589800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3120464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "消息人士称，美国商务部长卢特尼克在致Anthropic的信函中警告将对高级人工智能模型实施限制，这导致了Anthropic关闭Mythos模型的相关功能。",
-          "url": "https://flash.jin10.com/detail/20260617025425639800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/JMTBVGp5UHdlWqDhmyBJL.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260617120448538800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2050039889400435846",
+          "title": "AI Agent 的核心技术是什么？",
+          "url": "https://www.zhihu.com/question/1906023807417811104",
           "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-06-17）",
-          "url": "https://flash.jin10.com/detail/20260617120429925800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "工信部：深入实施“人工智能＋制造”专项行动 深入整治“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3120981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
-          "url": "https://wallstreetcn.com/livenews/3120716",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3121165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     }

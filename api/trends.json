@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T12:45:14.564392+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-06-17T20:22:28.696406+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -45,11 +45,12 @@
           "url": "https://www.zhihu.com/question/2050261467174101567",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 20时22分]"
         },
         {
           "title": "港股午评：恒指收跌0.37% PCB概念、AI次新股连涨三日",
@@ -58,7 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -72,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "联想计划发行20亿美元零息可转债：资本市场重估AI与ISG增长潜力",
+          "url": "https://wallstreetcn.com/livenews/3120911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
@@ -157,6 +169,17 @@
           "time_info": "[03时41分 ~ 06时19分]"
         },
         {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
@@ -179,6 +202,39 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "曝微信正测试AI支付功能",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%AE%E4%BF%A1%E6%AD%A3%E6%B5%8B%E8%AF%95AI%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -188,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -229,7 +296,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -273,7 +340,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -295,9 +362,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "工信部：深入实施“人工智能＋制造”专项行动 深入整治“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3120981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
@@ -306,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }

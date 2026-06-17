@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-17T06:19:44.239392+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-17T12:45:14.564392+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
-          "url": "https://www.cls.cn/detail/2401113",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 06时19分]"
-        },
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
           "url": "https://wallstreetcn.com/articles/3774806",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时41分 ~ 12时45分]"
+        },
+        {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时41分 ~ 06时19分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "港股午评：恒指收跌0.37% PCB概念、AI次新股连涨三日",
+          "url": "https://flash.jin10.com/detail/20260617121759371800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
@@ -135,13 +157,57 @@
           "time_info": "[03时41分 ~ 06时19分]"
         },
         {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "曝微信正测试AI支付功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%AE%E4%BF%A1%E6%AD%A3%E6%B5%8B%E8%AF%95AI%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
           "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
           "url": "https://wallstreetcn.com/livenews/3120511",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -155,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "据英国金融时报：施罗德首席投资官称，AI与科技企业并非处于“泡沫状态”。",
+          "url": "https://flash.jin10.com/detail/20260617121136589800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
@@ -185,9 +262,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/JMTBVGp5UHdlWqDhmyBJL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260617120448538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
@@ -196,9 +284,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-17）",
+          "url": "https://flash.jin10.com/detail/20260617120429925800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
+          "url": "https://wallstreetcn.com/livenews/3120716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T01:45:14.073572+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T05:21:41.131741+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时21分]"
         },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
@@ -26,30 +27,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时21分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
           "url": "https://wallstreetcn.com/articles/3775121",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时21分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
           "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时21分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -59,19 +62,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时21分]"
         },
         {
           "title": "父亲节用AI表达爱",
           "url": "https://www.douyin.com/hot/2542302",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时21分]"
         }
       ]
     }

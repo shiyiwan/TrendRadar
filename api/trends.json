@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T05:21:41.131741+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-06-22T13:02:08.129584+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -31,24 +31,25 @@
           "time_info": "[01时44分 ~ 05时21分]"
         },
         {
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 13时02分]"
+        },
+        {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
           "url": "https://wallstreetcn.com/articles/3775121",
           "source": "华尔街见闻",
           "ranks": [
             4,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 05时21分]"
-        },
-        {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -76,6 +77,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 05时21分]"
+        },
+        {
+          "title": "创业板冲高回落涨0.7%，AI多只热门股盘中齐跌，恒指、恒科指均跌1%，智谱暴涨17%市值破万亿",
+          "url": "https://wallstreetcn.com/articles/3775154",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时02分]"
+        },
+        {
+          "title": "本轮AI行情涌现大批10倍牛股",
+          "url": "https://www.toutiao.com/trending/7654041983467392518/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时02分]"
+        },
+        {
+          "title": "英矽智能：与SK生物制药达成一项价值高达25亿美元的AI驱动研发合作",
+          "url": "https://flash.jin10.com/detail/20260622122751589800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }

@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T05:27:47.513179+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-06-25T12:03:38.697986+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
           "url": "https://www.cls.cn/detail/2408054",
@@ -20,6 +31,28 @@
           "time_info": "[02时02分 ~ 05时27分]"
         },
         {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
           "url": "https://www.cls.cn/detail/2408036",
           "source": "财联社热门",
@@ -29,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 05时27分]"
+        },
+        {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "韩国轻易带崩华尔街，AI储存线还有多久？",
@@ -54,38 +98,29 @@
           "time_info": "[02时02分 ~ 05时27分]"
         },
         {
-          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
-          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
-          "source": "凤凰网",
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 12时03分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时27分]"
-        },
-        {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 12时03分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -96,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 12时03分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -105,7 +140,52 @@
           "source": "抖音",
           "ranks": [
             21,
-            12
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 12时03分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "主流AI Coding开发鹅腿识别",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BB%E6%B5%81AICoding%E5%BC%80%E5%8F%91%E9%B9%85%E8%85%BF%E8%AF%86%E5%88%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
+          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 05时27分]"
+        },
+        {
+          "title": "OpenAI发布首款自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -140,7 +231,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -151,9 +242,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
+          "url": "https://wallstreetcn.com/livenews/3124407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "Prosus将在法国AI公司Alan投资4亿欧元。",
@@ -173,7 +275,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -184,7 +286,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -195,7 +297,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }

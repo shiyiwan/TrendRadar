@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T12:10:54.050830+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-26T18:57:01.643286+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 05时49分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 18时57分]"
         },
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -48,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -62,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 12时10分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -157,6 +158,95 @@
           "time_info": "[02时15分 ~ 05时49分]"
         },
         {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 18时57分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -174,7 +264,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -196,18 +286,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -218,9 +297,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "乐奇Rokid推出首款智能眼镜AIOS",
+          "url": "https://wallstreetcn.com/livenews/3125229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
@@ -229,7 +319,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -273,7 +363,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -306,7 +396,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -320,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "我国科研团队发布海洋关键材料AI科研助手",
+          "url": "https://wallstreetcn.com/livenews/3125194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",

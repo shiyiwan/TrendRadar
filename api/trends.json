@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T05:09:29.106433+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-29T12:25:46.473492+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 12时25分]"
+        },
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 12时25分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -54,15 +66,16 @@
           "time_info": "[01时19分 ~ 05时09分]"
         },
         {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
           "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 12时25分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -71,20 +84,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
         {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-29）",
+          "url": "https://flash.jin10.com/detail/20260629115639400800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -142,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",

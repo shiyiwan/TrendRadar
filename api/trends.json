@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-30T02:13:00.908422+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T05:40:02.830705+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
-          "url": "https://www.zhihu.com/question/2054981283089069609",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
-        },
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
           "url": "https://www.cls.cn/detail/2412070",
@@ -26,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -37,19 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -70,19 +72,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
         },
         {
           "title": "AI手机进入Agent时代",
           "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -96,13 +99,24 @@
           "time_info": "[02时12分 ~ 02时13分]"
         },
         {
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：今日起面向美国用户在Gemini应用中推出免费个性化图片生成功能。",
           "url": "https://flash.jin10.com/detail/20260630015151236800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -113,9 +127,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "消息人士：康卡斯特可能会建设数据中心以利用人工智能的增长。",
+          "url": "https://flash.jin10.com/detail/20260630042523528800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T12:05:53.020526+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-06-30T19:15:43.547057+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -32,6 +32,17 @@
           "time_info": "[02时12分 ~ 05时40分]"
         },
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
@@ -41,6 +52,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时12分 ~ 05时40分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 19时15分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -101,6 +124,18 @@
           "time_info": "[05时39分 ~ 12时05分]"
         },
         {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 19时15分]"
+        },
+        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -118,9 +153,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "英国央行副行长布里登：可能需要更新代理人工智能的监管。",
+          "url": "https://flash.jin10.com/detail/20260630184906620800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "耀速科技完成近2亿元A+轮融资，加码AI4S药物研发平台",
+          "url": "https://wallstreetcn.com/livenews/3126699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
@@ -129,7 +186,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -145,26 +202,37 @@
           "time_info": "02时13分"
         },
         {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
+          "title": "英国央行副行长布里登：人工智能代理可能加剧市场的波动和压力。",
+          "url": "https://flash.jin10.com/detail/20260630184830769800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时05分"
+          "time_info": "19时15分"
         },
         {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
+          "title": "新洁能：公司与AI算力等相关的产品收入规模较小",
+          "url": "https://flash.jin10.com/detail/20260630184818751800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时05分"
+          "time_info": "19时15分"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -195,9 +263,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "天普股份：公司无开展人工智能相关业务的计划，与股东中昊芯英未签订任何框架性合作协议",
+          "url": "https://flash.jin10.com/detail/20260630184348035800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     }

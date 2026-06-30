@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-30T05:40:02.830705+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-30T12:05:53.020526+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
           "url": "https://www.cls.cn/detail/2412070",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 05时40分]"
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 12时05分]"
         },
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -88,6 +89,18 @@
           "time_info": "[02时12分 ~ 05时40分]"
         },
         {
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 12时05分]"
+        },
+        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -99,15 +112,26 @@
           "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "吴启华自曝卖肖像权拍AI电影",
-          "url": "https://www.douyin.com/hot/2552172",
-          "source": "抖音",
+          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
+          "url": "https://www.cls.cn/detail/2412167",
+          "source": "财联社热门",
           "ranks": [
-            23
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 05时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
+          "url": "https://wallstreetcn.com/articles/3775756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "谷歌(GOOG.O)：今日起面向美国用户在Gemini应用中推出免费个性化图片生成功能。",
@@ -119,6 +143,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -138,9 +184,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-30）",
+          "url": "https://flash.jin10.com/detail/20260630113419884800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T11:45:21.306074+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-07-03T15:28:40.677555+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -58,27 +58,29 @@
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
-          "title": "联合国警告：各国应针对AI采取行动",
-          "url": "https://www.toutiao.com/trending/7657422400892485673/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时28分]"
         },
         {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
           "url": "https://www.cls.cn/detail/2415999",
           "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时28分]"
+        },
+        {
+          "title": "联合国警告：各国应针对AI采取行动",
+          "url": "https://www.toutiao.com/trending/7657422400892485673/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
@@ -104,9 +106,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -196,11 +209,24 @@
           "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时28分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时28分]"
         },
         {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
@@ -210,8 +236,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时28分]"
         },
         {
           "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
@@ -221,19 +247,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时28分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -258,6 +273,28 @@
           "time_info": "05时15分"
         },
         {
+          "title": "清理违规视频近7600条 6月“AI魔改”视频治理成果公布",
+          "url": "https://wallstreetcn.com/livenews/3128503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：预计公司将在未来3-6个月内感受到人工智能投资带来​​的更多益处。",
           "url": "https://flash.jin10.com/detail/20260703040026284800",
           "source": "金十数据",
@@ -278,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "腾讯游戏发布暑期未保行动：每周限玩3小时，AI双引擎防沉迷护航",
+          "url": "https://wallstreetcn.com/livenews/3128488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "微软高管：微软可以帮助企业改进AI使用方式",

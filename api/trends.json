@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-04T14:52:50.313388+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-07-04T18:17:49.117690+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 18时17分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -92,9 +93,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 18时17分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -119,18 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 14时52分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 14时52分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 05时14分]"
+        },
+        {
+          "title": "如何评价 7 月 15 日将实施的 AI 情感陪伴新规，以及豆包、千问、元宝等 App 届时将下架智能体的决定？",
+          "url": "https://www.zhihu.com/question/2056532907695649760",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",

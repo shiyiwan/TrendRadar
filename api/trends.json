@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-07T15:46:32.582069+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-07-07T19:14:26.580501+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 19时14分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 19时14分]"
+        },
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
           "url": "https://www.cls.cn/detail/2418586",
@@ -31,49 +55,41 @@
           "time_info": "[02时15分 ~ 05时41分]"
         },
         {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
-        },
-        {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
           "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 19时14分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时53分 ~ 15时46分]"
+          "time_info": "[15时45分 ~ 19时14分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 19时14分]"
         },
         {
           "title": "初步预测今年我国人工智能相关产业规模将有30%以上增速",
@@ -144,17 +160,6 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
-        },
-        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -166,6 +171,17 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
           "url": "https://www.cls.cn/detail/2418217",
           "source": "财联社热门",
@@ -175,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 05时41分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek面试",
@@ -200,6 +227,17 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "几十个国家和国际组织将派高级别代表出席2026世界人工智能大会",
           "url": "https://flash.jin10.com/detail/20260707111513562800",
           "source": "金十数据",
@@ -222,6 +260,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "英国央行行长贝利：股票估值的扩大似乎不仅限于人工智能乐观情绪。股市面临剧烈调整的风险依然很高。",
+          "url": "https://flash.jin10.com/detail/20260707183647790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "2025年上海规上AI企业产业规模超6370亿元 同比增长39.5%",
           "url": "https://flash.jin10.com/detail/20260707110649004800",
           "source": "金十数据",
@@ -239,7 +288,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },

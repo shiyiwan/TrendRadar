@@ -1,464 +1,77 @@
 {
-  "generated_at": "2026-07-10T23:33:54.737737+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-07-11T01:51:47.412314+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 40,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 15时42分]"
-        },
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
           "url": "https://wallstreetcn.com/articles/3776606",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 23时33分]"
-        },
-        {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时27分]"
-        },
-        {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 15时42分]"
-        },
-        {
-          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
-          "url": "https://www.cls.cn/detail/2422609",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 19时11分]"
-        },
-        {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时27分 ~ 11时49分]"
-        },
-        {
-          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时27分]"
-        },
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 19时11分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时27分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 23时33分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时27分]"
-        },
-        {
-          "title": "Codex并入ChatGPT桌面端",
-          "url": "https://search.bilibili.com/all?keyword=Codex%E5%B9%B6%E5%85%A5ChatGPT%E6%A1%8C%E9%9D%A2%E7%AB%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 11时49分]"
-        },
-        {
-          "title": "AI“狂吞”存储恐冲击经济 美商务部长敦促韩国“芯片双雄”在美扩产",
-          "url": "https://www.cls.cn/detail/2422428",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "村上春树新书发售当天就出现 AI 译本，AI 译文质量靠谱吗？会普及吗？你能接受阅读 AI 译版作品吗？",
-          "url": "https://www.zhihu.com/question/2058240544073937856",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
-          "url": "https://www.zhihu.com/question/2058849029027632241",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "听障人士用AI做了款反诈应用",
-          "url": "https://www.toutiao.com/trending/7660363750279086121/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "给哈兰德做了一支AI大片",
-          "url": "https://www.douyin.com/hot/2565285",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://wallstreetcn.com/livenews/3131490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
-          "url": "https://wallstreetcn.com/livenews/3132157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
+          "time_info": "01时51分"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
           "url": "https://wallstreetcn.com/articles/3776629",
           "source": "华尔街见闻",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时33分"
+          "time_info": "01时51分"
         },
         {
-          "title": "OpenAI正式推出GPT-5.6系列模型",
-          "url": "https://flash.jin10.com/detail/20260710012017912800",
-          "source": "金十数据",
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "01时51分"
         },
         {
-          "title": "高盛：人工智能带来的内存、软件和电力价格综合上涨效应，正为美国核心PCE同比通胀贡献超过0.2个百分点，且到年底这一贡献将升至0.5个百分点。",
-          "url": "https://flash.jin10.com/detail/20260710231356546800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "上纬新材将在WAIC推出全球首个可变形个人机器人启元T1",
-          "url": "https://wallstreetcn.com/livenews/3131985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
-          "url": "https://flash.jin10.com/detail/20260710040649835800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
-          "url": "https://flash.jin10.com/detail/20260710231132564800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
-          "url": "https://wallstreetcn.com/livenews/3131478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://flash.jin10.com/detail/20260710011517619800",
+          "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
+          "url": "https://flash.jin10.com/detail/20260711003717069800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.6的定价以每百万个tokens为单位，分为三档模型：SOL输入为5美元，输出为30美元；TERRA输入为2.50美元，输出为15美元；LUNA输入为1美元，输出为6美元。",
-          "url": "https://flash.jin10.com/detail/20260710011209033800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "SK主席Chey Tae Won：我们已经在美国IPO问题上等待了十五年。 如果回报不错，我们希望能扩大（SK海力士的）ADR规模。 人工智能（AI）扩张，意味着“这是我们的时机”。 AI agents繁荣，意味着人们需要大量的存储芯片。 在AI冲击到AGI之前，对存储芯片的需求不会正常化。 （我们）既定的扩张计划是不够的。 需求将会增长，我对此有一些信心。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3132144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "一条AI短片演绎杨戬劈山",
-          "url": "https://www.douyin.com/hot/2564959",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
-          "url": "https://flash.jin10.com/detail/20260710040229258800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "“网智融合，开源向善”边会呼吁AI普惠向善发展",
-          "url": "https://wallstreetcn.com/livenews/3132143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
-          "url": "https://wallstreetcn.com/livenews/3131470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
-          "url": "https://flash.jin10.com/detail/20260710010752704800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "国家网信办：截至6月30日，累计有988款生成式人工智能服务完成备案",
-          "url": "https://wallstreetcn.com/livenews/3131970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
-          "url": "https://flash.jin10.com/detail/20260710010603930800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
-          "url": "https://flash.jin10.com/detail/20260710035905609800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 “超大”市值科技股指数涨2.15%，报442.37点。 美股存储芯片与硬件供应链指数涨5.11%，报227.13点，大部分时间持稳于232点、02:30开始持续回吐涨幅。 美股超大规模云服务商（Hyperscalers）涨1.24%，报盘93.47点，走势与七巨头指数相仿。 信息科技指数涨3.35%，报426.06点，走势与存储芯片指数类似。 人工智能（AI）赢家指数涨3.14%，报418.79点。 AI软件先驱指数涨1.48%，报112.09点。",
-          "url": "https://wallstreetcn.com/livenews/3131534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "01时51分"
         }
       ]
     }

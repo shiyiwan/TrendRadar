@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T11:27:52.771581+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-07-12T14:40:13.606810+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 11时27分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 14时40分]"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 14时40分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -31,18 +43,6 @@
           "time_info": "[01时03分 ~ 04时57分]"
         },
         {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 11时27分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
@@ -54,17 +54,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -74,6 +63,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时40分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -99,6 +100,29 @@
           "time_info": "[01时03分 ~ 04时57分]"
         },
         {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 14时40分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 14时40分]"
+        },
+        {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
           "url": "https://www.zhihu.com/question/2055029429290771542",
           "source": "知乎",
@@ -121,26 +145,26 @@
           "time_info": "[04时56分 ~ 04时57分]"
         },
         {
-          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
-          "url": "https://wallstreetcn.com/articles/3776704",
-          "source": "华尔街见闻",
+          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
+          "url": "https://www.zhihu.com/question/2054980630543442226",
+          "source": "知乎",
           "ranks": [
-            7
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
+          "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
+          "url": "https://flash.jin10.com/detail/20260712141642422800",
+          "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时40分"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -149,7 +173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -160,7 +184,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }

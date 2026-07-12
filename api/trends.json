@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T14:40:13.606810+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-07-12T17:56:44.507630+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 17时56分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 17时56分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -54,6 +54,19 @@
           "time_info": "04时57分"
         },
         {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 17时56分]"
+        },
+        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -70,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 17时56分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -100,18 +114,6 @@
           "time_info": "[01时03分 ~ 04时57分]"
         },
         {
-          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
-          "url": "https://wallstreetcn.com/articles/3776704",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时40分]"
-        },
-        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
           "source": "百度热搜",
@@ -119,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 17时56分]"
         },
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
@@ -156,13 +158,24 @@
           "time_info": "[14时39分 ~ 14时40分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
           "url": "https://flash.jin10.com/detail/20260712141642422800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },

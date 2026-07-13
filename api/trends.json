@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:19:19.981720+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-13T22:47:43.682583+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -53,8 +53,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 22时47分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 22时47分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -113,17 +126,26 @@
           "time_info": "[01时05分 ~ 15时27分]"
         },
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            13,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 19时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "解锁2026世界人工智能大会新亮点",
+          "url": "https://www.toutiao.com/trending/7661668281069223946/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
@@ -138,6 +160,18 @@
           "time_info": "[15时26分 ~ 19时19分]"
         },
         {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 22时47分]"
+        },
+        {
           "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
           "url": "https://www.cls.cn/detail/2424084",
           "source": "财联社热门",
@@ -147,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "苹果指控OpenAI偷窃商业机密",
@@ -215,13 +238,24 @@
           "time_info": "[11时30分 ~ 11时32分]"
         },
         {
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "白宫计划就AI电力成本达成自愿承诺。（路透）",
           "url": "https://wallstreetcn.com/livenews/3132855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -243,9 +277,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "Plus精选图示：AI巨头将公布二季度财报，现金流可能出现转折",
+          "url": "https://flash.jin10.com/detail/20260713221325781800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "韩国央行看好AI驱动的芯片超级周期，驳斥“见顶”担忧",
@@ -257,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "中国自研AI芯片取得架构突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",

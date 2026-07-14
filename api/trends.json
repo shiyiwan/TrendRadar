@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T10:52:50.785865+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-07-14T14:17:28.638427+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 10时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 14时17分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 10时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 14时17分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -74,6 +74,30 @@
           "time_info": "[01时59分 ~ 05时04分]"
         },
         {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 14时17分]"
+        },
+        {
+          "title": "韩国政府拟对几家参与政府AI项目的企业发放英伟达GPU",
+          "url": "https://flash.jin10.com/detail/20260714141208558800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -85,16 +109,59 @@
           "time_info": "05时04分"
         },
         {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
+          "title": "台风淹水致商铺狼藉图片为AI合成",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 14时17分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 14时17分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 14时17分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "AI脸 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "韩国财政部：将加快推进人工智能“超级项目”，以提升增长潜力。",
@@ -103,7 +170,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -114,7 +181,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -130,17 +197,6 @@
           "time_info": "05时04分"
         },
         {
-          "title": "台风淹水致商铺狼藉图片为AI合成",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
           "url": "https://flash.jin10.com/detail/20260714041440304800",
           "source": "金十数据",
@@ -150,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "软银孙正义：AI热潮将需要每年5万亿美元的投资",
+          "url": "https://flash.jin10.com/detail/20260714140556923800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
@@ -169,29 +236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -202,7 +247,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -213,7 +258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -224,7 +269,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }

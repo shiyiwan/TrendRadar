@@ -1,220 +1,55 @@
 {
-  "generated_at": "2026-07-14T21:57:25.751605+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-07-15T01:21:07.026865+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 45,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 14时17分]"
-        },
-        {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 14时17分]"
-        },
-        {
-          "title": "解锁2026世界人工智能大会新亮点",
-          "url": "https://www.toutiao.com/trending/7661668281069223946/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 10时52分]"
-        },
-        {
-          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时04分]"
-        },
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            9,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 21时57分]"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时04分]"
-        },
-        {
-          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
-          "url": "https://www.cls.cn/detail/2424821",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时04分]"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 21时57分]"
-        },
-        {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 21时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "疑AI照片拿了摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
+          "url": "https://wallstreetcn.com/livenews/3133798",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时03分 ~ 21时57分]"
-        },
-        {
-          "title": "韩国政府拟对几家参与政府AI项目的企业发放英伟达GPU",
-          "url": "https://flash.jin10.com/detail/20260714141208558800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "01时21分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
-          "url": "https://flash.jin10.com/detail/20260714043115058800",
+          "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
+          "url": "https://flash.jin10.com/detail/20260715004945505800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
-          "url": "https://www.cls.cn/detail/2425710",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时03分 ~ 21时57分]"
-        },
-        {
-          "title": "AI预测法国vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时03分 ~ 21时57分]"
-        },
-        {
-          "title": "台风淹水致商铺狼藉图片为AI合成",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 14时17分]"
-        },
-        {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
+          "time_info": "01时21分"
         },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
@@ -225,293 +60,139 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E6%88%90%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%85%A7%E7%89%87%E8%8E%B7%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "AI生成图片被评摄影一等奖 官方通报",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
+          "url": "https://www.cls.cn/detail/2426403",
+          "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "AI脸 恐怖谷效应",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "AI杀死时尚行业",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "经纬度：中国人工智能发展的战略定力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "美股开盘：AI硬件股上涨 IBM跌22%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9AAI%E7%A1%AC%E4%BB%B6%E8%82%A1%E4%B8%8A%E6%B6%A8+IBM%E8%B7%8C22%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
-        },
-        {
-          "title": "AI短剧为何共用一张脸",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
-        },
-        {
-          "title": "DeepSeek梁文锋成AI公司新首富",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
-        },
-        {
-          "title": "韩国财政部：将加快推进人工智能“超级项目”，以提升增长潜力。",
-          "url": "https://flash.jin10.com/detail/20260714103756120800",
+          "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
+          "url": "https://flash.jin10.com/detail/20260715004912134800",
           "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "五一视界进入IDC物理AI软件基础设施",
-          "url": "https://wallstreetcn.com/livenews/3133684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "01时21分"
         },
         {
-          "title": "看陈泽AI跳舞是一种挑战",
-          "url": "https://www.douyin.com/hot/2570068",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "高盛首席执行官所罗门：客户活动在亚洲特别强劲，部分受到强劲的人工智能资本形成和投资的推动。",
-          "url": "https://flash.jin10.com/detail/20260714213621618800",
+          "title": "美联储理事巴尔：AI有潜力显著提升生产率，尤其将惠及低技能和经验不足的劳动者。",
+          "url": "https://flash.jin10.com/detail/20260715004624591800",
           "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "01时21分"
         },
         {
-          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
-          "url": "https://wallstreetcn.com/livenews/3133081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://flash.jin10.com/detail/20260714041440304800",
+          "title": "美联储理事巴尔：AI将从多个方面影响劳动力市场和整体经济，目前尚无法判断其会缩小还是加剧收入和财富不平等。",
+          "url": "https://flash.jin10.com/detail/20260715004456687800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "01时21分"
         },
         {
-          "title": "软银孙正义：AI热潮将需要每年5万亿美元的投资",
-          "url": "https://flash.jin10.com/detail/20260714140556923800",
+          "title": "美联储理事巴尔将于十分钟后在美联储年度金融普惠会议上就人工智能发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260715003000002800",
           "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
-          "url": "https://wallstreetcn.com/livenews/3133016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
-          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2424933",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "高盛首席执行官所罗门：人工智能投资周期正在扩大资本需求，超出核心技术、基础设施、能源和数据中心。",
-          "url": "https://flash.jin10.com/detail/20260714213412109800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "01时21分"
         },
         {
-          "title": "软银推出基于OpenAI技术的网络安全服务。",
-          "url": "https://wallstreetcn.com/livenews/3133244",
+          "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
+          "url": "https://wallstreetcn.com/livenews/3133777",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "海关总署：中国出口连续11季度保持增长 贸易增量集中于AI领域",
-          "url": "https://wallstreetcn.com/livenews/3133243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "美联储主席沃什：美联储对持续高通胀“零容忍”。 商业投资是当前经济最显著的特征。 美国经济具有韧性，增长步伐稳健。 消费增长温和，住房市场持续滞后。 AI机遇对决策者构成挑战。 正在监测AI对通胀和劳动力市场的影响。 劳动力市场总体稳定，名义工资增长稳健。 （沃什未就利率前景发表评论）",
-          "url": "https://wallstreetcn.com/livenews/3133664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "谷歌：Chrome浏览器AI功能将于下月扩展至iOS平台。 将Chrome浏览器内嵌Gemini AI功能扩展至英国用户。",
-          "url": "https://wallstreetcn.com/livenews/3133659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "中国自研AI芯片取得架构突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "【通富微电：预计上半年净利润16亿元-18亿元，同比增长288.26%-336.80%】上半年，在AI算力建设带动需求提升，存储市场景气上行，国产化加速等驱动下，半导体行业迎来强劲增长。公司积极进取，产能利用率提升，营业收入增幅上升，特别是中高端产品营业收入明显增加。同时，得益于加强经营管理及成本费用的管控，公司整体效益显著提升。",
-          "url": "https://wallstreetcn.com/livenews/3133473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "01时21分"
         }
       ]
     }

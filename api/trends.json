@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T01:19:19.452013+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-18T05:02:42.444584+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "UP主手搓WAIC逛展小助手",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -48,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -59,30 +48,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
           "url": "https://wallstreetcn.com/articles/3777168",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -92,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -103,85 +106,92 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
           "url": "https://wallstreetcn.com/articles/3777165",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
           "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
           "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时02分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -201,7 +211,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -212,7 +222,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }

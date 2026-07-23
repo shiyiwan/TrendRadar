@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T14:36:46.991240+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-07-23T18:29:11.421956+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -15,8 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 18时29分]"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时29分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -31,6 +43,18 @@
           "time_info": "[01时26分 ~ 11时23分]"
         },
         {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时29分]"
+        },
+        {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -40,17 +64,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 05时15分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时36分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -76,17 +89,6 @@
           "time_info": "[11时22分 ~ 14时36分]"
         },
         {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时36分]"
-        },
-        {
           "title": "用AI通关高难度跑步游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -101,6 +103,30 @@
           "time_info": "[01时26分 ~ 14时36分]"
         },
         {
+          "title": "rain回应战胜猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时29分]"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "OpenAI模型失控闯祸 中国大模型救场",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
           "source": "百度热搜",
@@ -110,6 +136,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
+          "url": "https://www.cls.cn/detail/2434908",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "腾讯云发布 CodeBuddy NPC，推动 AI 编程迈向“交付时代”",
+          "url": "https://wallstreetcn.com/livenews/3138807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -126,6 +174,29 @@
           "time_info": "[01时26分 ~ 14时36分]"
         },
         {
+          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
+          "url": "https://www.cls.cn/detail/2434755",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 18时29分]"
+        },
+        {
+          "title": "黄仁勋：美国不该限制DeepSeek、Kimi等中国模型，优秀的开源模型就该被用起来",
+          "url": "https://wallstreetcn.com/livenews/3138806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "为什么要说尽量少跟AI倾诉聊天",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -138,16 +209,16 @@
           "time_info": "[01时26分 ~ 05时15分]"
         },
         {
-          "title": "rain回应战胜猎鹰",
-          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
-          "source": "bilibili 热搜",
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            15
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时29分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -160,6 +231,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 05时15分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时29分]"
         },
         {
           "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
@@ -197,18 +279,6 @@
           "time_info": "[01时26分 ~ 05时15分]"
         },
         {
-          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
-          "url": "https://wallstreetcn.com/articles/3777694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时36分]"
-        },
-        {
           "title": "rain淘汰猎鹰高光集锦",
           "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
           "source": "bilibili 热搜",
@@ -219,6 +289,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 14时36分]"
+        },
+        {
+          "title": "男子AI伪造烂水果仅退款连累全县",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 18时29分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -255,17 +337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 05时15分]"
-        },
-        {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时36分]"
         },
         {
           "title": "前所未有的人工智能失控事故！中方救场",
@@ -313,6 +384,17 @@
           "time_info": "[11时22分 ~ 11时23分]"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "黄仁勋称美国无需害怕中国开源AI模型",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%97%A0%E9%9C%80%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -322,17 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
-        },
-        {
-          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
-          "url": "https://www.cls.cn/detail/2434755",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "谷歌CFO：季度资本开支主要用于AI基础设施。",
@@ -352,20 +423,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
         {
-          "title": "男子AI伪造烂水果仅退款连累全县",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
+          "url": "https://wallstreetcn.com/livenews/3138799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "18时29分"
         },
         {
           "title": "为什么千万不要对AI说谢谢",
@@ -388,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "欧盟因谷歌搜索业务对其罚款4.6亿欧元，因Google Play商店业务对其罚款4.3亿欧元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "“烧钱”豪赌AI！特斯拉二季度利润滑坡，现金流转负，马斯克抛出合并悬念",
@@ -445,15 +527,37 @@
           "time_info": "05时15分"
         },
         {
+          "title": "谷歌(GOOG.O)：谷歌正在推出首版人工智能与经济图谱。",
+          "url": "https://flash.jin10.com/detail/20260723180732301800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "AI前沿日报-7月23日",
           "url": "https://flash.jin10.com/detail/20260723140129866800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "贝佐斯推动重新设计Prime Video，聚焦人工智能",
+          "url": "https://flash.jin10.com/detail/20260723180546329800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "AI烧钱竞赛升级",

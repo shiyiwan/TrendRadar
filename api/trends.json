@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T14:37:36.774053+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-07-29T18:45:11.293902+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 14时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 18时45分]"
         },
         {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
@@ -57,6 +58,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时39分 ~ 14时37分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时45分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -104,17 +116,6 @@
           "time_info": "[14时36分 ~ 14时37分]"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
-        },
-        {
           "title": "电力是AI芯片的下一个瓶颈吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%8A%9B%E6%98%AFAI%E8%8A%AF%E7%89%87%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%93%B6%E9%A2%88%E5%90%97",
           "source": "bilibili 热搜",
@@ -126,6 +127,19 @@
           "time_info": "[11时12分 ~ 11时13分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 18时45分]"
+        },
+        {
           "title": "印度成首个被AI做空的国家",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%88%90%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E5%81%9A%E7%A9%BA%E7%9A%84%E5%9B%BD%E5%AE%B6&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -135,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "外交部批日本右翼用AI歪曲侵华历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%94%A8AI%E6%AD%AA%E6%9B%B2%E4%BE%B5%E5%8D%8E%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -162,16 +187,26 @@
           "time_info": "[01时39分 ~ 11时13分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时45分]"
+        },
+        {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时12分 ~ 14时37分]"
+          "time_info": "[11时12分 ~ 18时45分]"
         },
         {
           "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
@@ -198,26 +233,15 @@
           "time_info": "[01时39分 ~ 05时14分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
-        },
-        {
-          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778163",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -229,6 +253,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 11时13分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "OpenAI模型失控新的受害者曝光",
@@ -251,6 +297,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 01时40分]"
+        },
+        {
+          "title": "AI剧能火靠的不是算法是人心",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%E8%83%BD%E7%81%AB%E9%9D%A0%E7%9A%84%E4%B8%8D%E6%98%AF%E7%AE%97%E6%B3%95%E6%98%AF%E4%BA%BA%E5%BF%83&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "AI科技板块大跌原因",
@@ -352,6 +409,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "浙江：聚焦集成电路、智能物联、高端软件 推动人工智能与信息技术产业深度融合",
+          "url": "https://wallstreetcn.com/livenews/3141600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "xAI面向Grok推出Build模型。 Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
           "url": "https://wallstreetcn.com/livenews/3141119",
           "source": "华尔街见闻-快讯",
@@ -369,7 +437,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },

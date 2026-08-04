@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-08-05T01:54:09.065564+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-05T05:18:57.697944+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
         {
-          "title": "中国版“生物DeepSeek”诞生",
-          "url": "https://www.toutiao.com/trending/7670182284162502194/",
-          "source": "今日头条",
+          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
           "url": "https://www.cls.cn/detail/2445244",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
+        },
+        {
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -37,41 +50,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
           "url": "https://wallstreetcn.com/articles/3778632",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
           "url": "https://www.zhihu.com/question/2066578072997049748",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
@@ -81,8 +97,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -92,8 +108,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时18分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -107,15 +123,114 @@
           "time_info": "[01时53分 ~ 01时54分]"
         },
         {
+          "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
+          "url": "https://wallstreetcn.com/livenews/3144952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
+          "url": "https://wallstreetcn.com/livenews/3144951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
+          "url": "https://wallstreetcn.com/livenews/3144950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
+          "url": "https://www.zhihu.com/question/2067720724765045518",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "马斯克：预计首批Starmind AI卫星将于明年开始发射升空。",
+          "url": "https://flash.jin10.com/detail/20260805044446076800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "马斯克：Starmind AI卫星将针对Vera Rubin计算机进行优化。",
+          "url": "https://flash.jin10.com/detail/20260805044432830800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "印度航运部长：印度籍MSV Faize Noore Oliya号船在也门水域附近遭到射弹击中，船只倾覆并沉没。",
           "url": "https://flash.jin10.com/detail/20260805004919907800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "SpaceX营收在二季度增超90%，AI成本飙涨",
+          "url": "https://wallstreetcn.com/livenews/3144935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -124,7 +239,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }

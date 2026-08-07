@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T00:59:36.608899+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-08T04:48:16.597517+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -37,8 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -48,19 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
           "url": "https://www.cls.cn/detail/2448766",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -70,41 +83,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -114,8 +118,30 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时48分]"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "time_info": "[04时47分 ~ 04时48分]"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 04时48分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -124,7 +150,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -135,7 +161,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -146,7 +172,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -157,7 +183,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -168,7 +194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -179,7 +205,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -190,7 +216,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         }

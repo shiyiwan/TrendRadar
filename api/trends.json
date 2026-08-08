@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T00:40:42.959306+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-09T04:37:02.237034+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek google gemini chatgpt openai AI 人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -26,30 +26,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
           "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -67,33 +69,58 @@
           "url": "https://www.cls.cn/detail/2449139",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时37分]"
+        },
+        {
+          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
+          "url": "https://www.zhihu.com/question/2069133357099832441",
+          "source": "知乎",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "time_info": "[04时36分 ~ 04时37分]"
+        },
+        {
+          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
+          "url": "https://wallstreetcn.com/articles/3778982",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 04时37分]"
         },
         {
           "title": "苹果AI 千问",
@@ -107,13 +134,24 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 04时37分]"
+        },
+        {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
           "url": "https://flash.jin10.com/detail/20260808204416510800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
         }
